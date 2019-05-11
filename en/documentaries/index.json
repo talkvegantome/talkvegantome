@@ -1,0 +1,47 @@
+{
+    "data" : 
+[
+      
+      {
+          "friendlyName": "Earthlings",
+          "rawContent": "\n# Earthlings\n\nThis [2005 documentary](http://www.nationearth.com/) uses a combination of undercover footage to expose the horrors behind the world's production of:\n\n* Pets\n* Food\n* Clothing\n* Entertainment\n* Scientific Research\n\n**CONTENT WARNING:** Footage of animals in distressing and violent circumstances is present throughout the documentary.\n\nThe full documentary can be watched [on Vimeo](https://vimeo.com/209647801)\n",
+          "relativePermalink": "/en/documentaries/earthlings/",
+          "weight": null,
+          "permalink" : "http://talkveganto.me/en/documentaries/earthlings/",
+          "section": {
+            "friendlyName": "Documentaries",
+            "relativePermalink": "/en/documentaries/",
+            "weight": null
+          }
+
+      }
+      , 
+      {
+          "friendlyName": "Land of Hope and Glory",
+          "rawContent": "\n[Land of Hope and Glory](https://www.landofhopeandglory.org/) is a 2017 film from the founders of the animal rights organisation [Surge])(https://www.facebook.com/surgeactivism/) looks at the animal farming industry in the United Kingdom through undercover footage from approximately 100 UK animal farms.\n\n**CONTENT WARNING:** Footage of animals in distressing and violent circumstances is present throughout the documentary.\n\nThe documentary can be seen on [Youtube](https://www.youtube.com/watch?v=dvtVkNofcq8)\n",
+          "relativePermalink": "/en/documentaries/land-of-hope-and-glory/",
+          "weight": null,
+          "permalink" : "http://talkveganto.me/en/documentaries/land-of-hope-and-glory/",
+          "section": {
+            "friendlyName": "Documentaries",
+            "relativePermalink": "/en/documentaries/",
+            "weight": null
+          }
+
+      }
+      , 
+      {
+          "friendlyName": "Dominion",
+          "rawContent": "\n# Dominion\n\nDominion is a 2018 film from Aussie Farms about the farming industry in Australia\n[https://www.dominionmovement.com/](https://www.dominionmovement.com/)\n",
+          "relativePermalink": "/en/documentaries/dominion/",
+          "weight": null,
+          "permalink" : "http://talkveganto.me/en/documentaries/dominion/",
+          "section": {
+            "friendlyName": "Documentaries",
+            "relativePermalink": "/en/documentaries/",
+            "weight": null
+          }
+
+      }
+]
+}

@@ -3,62 +3,6 @@
 [
       
       {
-          "friendlyName": "Earthlings",
-          "rawContent": "\n# Earthlings\n\nThis [2005 documentary](http://www.nationearth.com/) uses a combination of undercover footage to expose the horrors behind the world's production of:\n\n* Pets\n* Food\n* Clothing\n* Entertainment\n* Scientific Research\n\n**CONTENT WARNING:** Footage of animals in distressing and violent circumstances is present throughout the documentary.\n\nThe full documentary can be watched [on Vimeo](https://vimeo.com/209647801)\n",
-          "relativePermalink": "/en/documentaries/earthlings/",
-          "weight": null,
-          "permalink" : "http://talkveganto.me/en/documentaries/earthlings/",
-          "section": {
-            "friendlyName": "Documentaries",
-            "relativePermalink": "/en/documentaries/",
-            "weight": null
-          }
-
-      }
-      , 
-      {
-          "friendlyName": "Land of Hope and Glory",
-          "rawContent": "\n[Land of Hope and Glory](https://www.landofhopeandglory.org/) is a 2017 film from the founders of the animal rights organisation [Surge])(https://www.facebook.com/surgeactivism/) looks at the animal farming industry in the United Kingdom through undercover footage from approximately 100 UK animal farms.\n\n**CONTENT WARNING:** Footage of animals in distressing and violent circumstances is present throughout the documentary.\n\nThe documentary can be seen on [Youtube](https://www.youtube.com/watch?v=dvtVkNofcq8)\n",
-          "relativePermalink": "/en/documentaries/land-of-hope-and-glory/",
-          "weight": null,
-          "permalink" : "http://talkveganto.me/en/documentaries/land-of-hope-and-glory/",
-          "section": {
-            "friendlyName": "Documentaries",
-            "relativePermalink": "/en/documentaries/",
-            "weight": null
-          }
-
-      }
-      , 
-      {
-          "friendlyName": "Dominion",
-          "rawContent": "\n# Dominion\n\nDominion is a 2018 film from Aussie Farms about the farming industry in Australia\n[https://www.dominionmovement.com/](https://www.dominionmovement.com/)\n",
-          "relativePermalink": "/en/documentaries/dominion/",
-          "weight": null,
-          "permalink" : "http://talkveganto.me/en/documentaries/dominion/",
-          "section": {
-            "friendlyName": "Documentaries",
-            "relativePermalink": "/en/documentaries/",
-            "weight": null
-          }
-
-      }
-      , 
-      {
-          "friendlyName": "Splash",
-          "rawContent": "\n\n# Welcome to TalkVeganToMe\n\nTalkVeganToMe is an intersectional, compassionate, collaborative project intended to provide vegans old and new alike a central resource for commonly required information about veganism.  \n\n## Getting Started\n\nCheck out our [Learning More]({{\u003c ref \"/getting-started/learning-more\" \u003e}}) section.\n\n## Our Mission\n\n1. Make the day-to- day lives of vegans easier by making information easily accessible\n2. Make vegan advocacy in all its forms easier to learn about, understand, and do\n3. Ensure we do not promote messaging which harm any other justice movements\n4. Embody the compassion that veganism typifies in all our material and interactions\n5. Ensure the accuracy of our information and provide _full disclosure_ of mitigating information even if it undermines the argument being presented\n6. Not to engage in the gatekeeping of veganism (no-one can take away your V card)\n7. Not to use the platform to further the personal agenda or profit of the individual contributors\n8. Use the platform to promote inclusion and intersectional messaging wherever possible\n\n\n## Collaborating\n\nWant to add content, or just correct a typo? You can visit the [Github Repo](https://github.com/talkvegantome/talkvegan-hugo) where you will find a full guide on how to contribute.\n",
-          "relativePermalink": "/en/splash/",
-          "weight": null,
-          "permalink" : "http://talkveganto.me/en/splash/",
-          "section": {
-            "friendlyName": "TalkVeganToMe",
-            "relativePermalink": "/en/",
-            "weight": null
-          }
-
-      }
-      , 
-      {
           "friendlyName": "Learning More",
           "rawContent": "\n# Learning More\n\n## Websites\n\n- [The Vegan Society](https://vegansociety.com) - Provides a wealth of information about getting started, the grandaddies of Veganism\n\n\n## Books\n\n## Films\n\n- [Land of Hope and Glory]({{\u003c ref \"/documentaries/land-of-hope-and-glory\" \u003e}})\n- [Dominion]({{\u003c ref \"/documentaries/dominion\" \u003e}})\n- [Earthlings]([Dominion]({{\u003c ref \"/documentaries/earthlings\" \u003e}}))\n\n## Podcasts\n\n- [The Bearded Vegans](https://www.thebeardedvegans.com/)\n\n## YouTube Channels\n",
           "relativePermalink": "/en/getting-started/learning-more/",

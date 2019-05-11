@@ -3,6 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://talkveganto.me/en/getting-started/</loc>
+    <lastmod>2019-05-05T16:15:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://talkveganto.me/en/documentaries/earthlings/</loc>
+    <lastmod>2019-05-11T19:23:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://talkveganto.me/en/documentaries/land-of-hope-and-glory/</loc>
+    <lastmod>2019-05-11T19:17:28+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://talkveganto.me/en/documentaries/dominion/</loc>
+    <lastmod>2019-05-06T16:08:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://talkveganto.me/en/splash/</loc>
+    <lastmod>2019-05-05T17:41:23+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://talkveganto.me/en/getting-started/learning-more/</loc>
+    <lastmod>2019-05-05T16:50:16+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://talkveganto.me/en/getting-started/eating-out/</loc>
+    <lastmod>2019-05-05T16:41:34+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://talkveganto.me/en/getting-started/shopping/</loc>
+    <lastmod>2019-05-05T16:16:17+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://talkveganto.me/en/categories/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -15,6 +55,12 @@
                 hreflang="en"
                 href="http://talkveganto.me/en/categories/"
                 />
+  </url>
+  
+  <url>
+    <loc>http://talkveganto.me/en/documentaries/</loc>
+    <lastmod>2019-05-11T19:23:19+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -34,6 +80,7 @@
   
   <url>
     <loc>http://talkveganto.me/en/</loc>
+    <lastmod>2019-05-11T19:23:19+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
