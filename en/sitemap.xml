@@ -5,26 +5,76 @@
   <url>
     <loc>http://talkveganto.me/en/getting-started/</loc>
     <lastmod>2019-05-05T16:15:19+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://talkveganto.me/fr/getting-started/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://talkveganto.me/en/getting-started/"
+                />
   </url>
   
   <url>
     <loc>http://talkveganto.me/en/documentaries/earthlings/</loc>
     <lastmod>2019-05-11T19:23:19+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://talkveganto.me/fr/documentaries/earthlings/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://talkveganto.me/en/documentaries/earthlings/"
+                />
   </url>
   
   <url>
     <loc>http://talkveganto.me/en/documentaries/land-of-hope-and-glory/</loc>
     <lastmod>2019-05-11T19:17:28+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://talkveganto.me/fr/documentaries/land-of-hope-and-glory/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://talkveganto.me/en/documentaries/land-of-hope-and-glory/"
+                />
   </url>
   
   <url>
     <loc>http://talkveganto.me/en/documentaries/dominion/</loc>
     <lastmod>2019-05-06T16:08:53+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://talkveganto.me/fr/documentaries/dominion/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://talkveganto.me/en/documentaries/dominion/"
+                />
   </url>
   
   <url>
     <loc>http://talkveganto.me/en/splash/</loc>
     <lastmod>2019-05-05T17:41:23+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://talkveganto.me/fr/splash/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://talkveganto.me/en/splash/"
+                />
   </url>
   
   <url>
@@ -61,6 +111,16 @@
     <loc>http://talkveganto.me/en/documentaries/</loc>
     <lastmod>2019-05-11T19:23:19+01:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://talkveganto.me/fr/documentaries/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://talkveganto.me/en/documentaries/"
+                />
   </url>
   
   <url>

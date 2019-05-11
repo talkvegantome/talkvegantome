@@ -1,0 +1,47 @@
+{
+    "data" : 
+[
+      
+      {
+          "friendlyName": "Earthlings",
+          "rawContent": "\n# Earthlings\n\nCe [documentaire de 2005](http://www.nationearth.com/) utilise une combinaison de métrages sous couverture pour exposer les horreurs de la production mondiale de:\n\n* Animaux domestiques\n* Aliments\n* Vêtements\n* Divertissement\n* Recherche scientifique\n\n**AVERTISSEMENT SUR LE CONTENU:** Des images d'animaux en situation de détresse et de violence sont présentes tout au long du documentaire.\n\nLe documentaire complet peut être visionné [sur Vimeo](https://vimeo.com/209647801)\n",
+          "relativePermalink": "/fr/documentaries/earthlings/",
+          "weight": null,
+          "permalink" : "http://talkveganto.me/fr/documentaries/earthlings/",
+          "section": {
+            "friendlyName": "Documentaires",
+            "relativePermalink": "/fr/documentaries/",
+            "weight": 3000
+          }
+
+      }
+      , 
+      {
+          "friendlyName": "Terre d'espoir et de gloire",
+          "rawContent": "\n# Terre d'espoir et de gloire\n\n[Terre d'espoir et de gloire](https://www.landofhopeandglory.org/) est un film de 2017 des fondateurs de l'organisation de défense des droits des animaux [Surge](https://www.facebook.com/surgeactivism/) présente le secteur de l'élevage au Royaume-Uni à travers des images sous couverture d'environ 100 fermes d'élevage britanniques.\n\n**AVERTISSEMENT SUR LE CONTENU:** Des images d'animaux en situation de détresse et de violence sont présentes tout au long du documentaire.\n\nLe documentaire peut être visionné sur [Youtube](https://www.youtube.com/watch?v=dvtVkNofcq8)\n",
+          "relativePermalink": "/fr/documentaries/land-of-hope-and-glory/",
+          "weight": null,
+          "permalink" : "http://talkveganto.me/fr/documentaries/land-of-hope-and-glory/",
+          "section": {
+            "friendlyName": "Documentaires",
+            "relativePermalink": "/fr/documentaries/",
+            "weight": 3000
+          }
+
+      }
+      , 
+      {
+          "friendlyName": "Dominion",
+          "rawContent": "\n# Dominion\nDominion est un film de 2018 d'Aussie Farms sur le secteur agricole en Australie.\n**AVERTISSEMENT SUR LE CONTENU:** Des images d'animaux en situation de détresse et de violence sont présentes tout au long du documentaire.\n[https://www.dominionmovement.com/](https://www.dominionmovement.com/)\n",
+          "relativePermalink": "/fr/documentaries/dominion/",
+          "weight": null,
+          "permalink" : "http://talkveganto.me/fr/documentaries/dominion/",
+          "section": {
+            "friendlyName": "Documentaires",
+            "relativePermalink": "/fr/documentaries/",
+            "weight": 3000
+          }
+
+      }
+]
+}
