@@ -3,47 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://talkvegantome.com/fr/categories/</loc>
+    <loc>http://talkveganto.me/fr/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://talkvegantome.com/en/categories/"
+                href="http://talkveganto.me/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://talkvegantome.com/fr/categories/"
+                href="http://talkveganto.me/fr/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://talkvegantome.com/fr/tags/</loc>
+    <loc>http://talkveganto.me/fr/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://talkvegantome.com/en/tags/"
+                href="http://talkveganto.me/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://talkvegantome.com/fr/tags/"
+                href="http://talkveganto.me/fr/tags/"
                 />
   </url>
   
   <url>
-    <loc>http://talkvegantome.com/fr/</loc>
+    <loc>http://talkveganto.me/fr/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://talkvegantome.com/en/"
+                href="http://talkveganto.me/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://talkvegantome.com/fr/"
+                href="http://talkveganto.me/fr/"
                 />
   </url>
   
