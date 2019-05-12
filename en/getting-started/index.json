@@ -4,7 +4,7 @@
       
       {
           "friendlyName": "Learning More",
-          "rawContent": "\n# Learning More\n\n## Websites\n\n- [The Vegan Society](https://vegansociety.com) - Provides a wealth of information about getting started, the grandaddies of Veganism\n\n\n## Books\n\n## Films\n\n- [Land of Hope and Glory]({{\u003c ref \"/documentaries/land-of-hope-and-glory\" \u003e}})\n- [Dominion]({{\u003c ref \"/documentaries/dominion\" \u003e}})\n- [Earthlings]({{\u003c ref \"/documentaries/earthlings\" \u003e}})\n\n## Podcasts\n\n- [The Bearded Vegans](https://www.thebeardedvegans.com/)\n\n## YouTube Channels\n",
+          "rawContent": "\n# Learning More\n\n## Websites\n\n- [The Vegan Society](https://vegansociety.com) - Provides a wealth of information about getting started, the grandaddies of Veganism\n\n\n## Books\n\n## Films\n\n- [Land of Hope and Glory]({{\u003c ref \"/documentaries/land-of-hope-and-glory\" \u003e}})\n- [Dominion]({{\u003c ref \"/documentaries/dominion\" \u003e}})\n- [Earthlings]({{\u003c ref \"/documentaries/earthlings\" \u003e}})\n\n## Podcasts\n\n- [The Bearded Vegans](https://www.thebeardedvegans.com/)\n\n## YouTube Channels\n\n- [Earthling Ed](https://www.youtube.com/channel/UCVRrGAcUc7cblUzOhI1KfFg)\n",
           "relativePermalink": "/en/getting-started/learning-more/",
           "weight": null,
           "permalink" : "https://talkveganto.me/en/getting-started/learning-more/",
@@ -44,5 +44,5 @@
 
       }
 ],
-    "date": "2019-05-12T11:12:45.127728+01:00"
+    "date": "2019-05-12T12:34:50.411239+01:00"
 }
