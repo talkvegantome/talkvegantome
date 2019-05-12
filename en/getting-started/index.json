@@ -7,7 +7,7 @@
           "rawContent": "\n# Learning More\n\n## Websites\n\n- [The Vegan Society](https://vegansociety.com) - Provides a wealth of information about getting started, the grandaddies of Veganism\n\n\n## Books\n\n## Films\n\n- [Land of Hope and Glory]({{\u003c ref \"/documentaries/land-of-hope-and-glory\" \u003e}})\n- [Dominion]({{\u003c ref \"/documentaries/dominion\" \u003e}})\n- [Earthlings]({{\u003c ref \"/documentaries/earthlings\" \u003e}})\n\n## Podcasts\n\n- [The Bearded Vegans](https://www.thebeardedvegans.com/)\n\n## YouTube Channels\n",
           "relativePermalink": "/en/getting-started/learning-more/",
           "weight": null,
-          "permalink" : "http://talkveganto.me/en/getting-started/learning-more/",
+          "permalink" : "https://talkveganto.me/en/getting-started/learning-more/",
           "section": {
             "friendlyName": "Getting Started",
             "relativePermalink": "/en/getting-started/",
@@ -21,7 +21,7 @@
           "rawContent": "\n# Eating Out\n\nThe ease of eating out varies hugely depending on where you are in the world, and also who you're with.  \n\n## Scenarios\n\n### Attending a function you didn't organise\n\nIf you're going a restaurant, find the menu online, and email the restaurant in advance with any questions you have. A little preparation can go a long way to making the process smoother.\n\nIf you're attending a catered function, contact the organiser if possible specifying No Meat, No Dairy, No Eggs, No Honey, do not rely on people knowing what 'vegan' means, even if they claim to!\n\n## Resources\n\n- [HappyCow](https://happycow.com) Is a wonderful website and app helping you to find vegan restaurants and vegan options near you\n",
           "relativePermalink": "/en/getting-started/eating-out/",
           "weight": null,
-          "permalink" : "http://talkveganto.me/en/getting-started/eating-out/",
+          "permalink" : "https://talkveganto.me/en/getting-started/eating-out/",
           "section": {
             "friendlyName": "Getting Started",
             "relativePermalink": "/en/getting-started/",
@@ -35,7 +35,7 @@
           "rawContent": "\n# Shopping\n\nShopping as a vegan requires a little more attention than shopping as an omnivore.  \n\nIn this section we will cover the major everyday shopping scenarios.\n\n## Food\n\nWhen you first start checking labels on products in the supermarket it can seem overwhelming to check for everything, especially when it comes to E numbers and obscure ingredients. Do the best you can, but try not to overwhelm yourself.\n\n### Vegetarian Products\n\nIt's easy to be lulled into a false sense of security by products made from vegetarian manufacturers like Quorn. But keep a watchful eye on the ingredients of these products as they commonly contain non-vegan ingredients even when you least expect!\n\n### E Numbers\n\n- E120 - Never vegan\n- E322 - Usually vegan\n- E422 - Usually vegan\n- E542 - Never vegan\n- E631 - Usually not vegan\n- E901 - Never vegan\n- E904 - Never vegan\n- E471 - Usually vegan\n- E920 - Check for further information\n\n**Source:** [Vegan Society](https://www.vegansociety.com/whats-new/blog/how-avoid-buying-non-vegan-products)\n\n### Gotchas\n\n- Honey\n- Beer/Wine\n- Bread (Regional. particularly in the UK often contains milk)\n- Smoothies (Often contain yogurt)\n- Chocolate (Dark chocolate is usually fine, but always check the packaging for milk!)\n\n## Clothes\n\nOften less thought about than food, the following products on clothes will not be vegan.\n\n- Leather (including Suede)\n- Wool\n- Silk\n- Fur\n- Feathers\n\n### Gotchas\n\nIt's advisable to patronise vegan shoe establishments in particular as glues used in the manufacturing process for shoes made of otherwise vegan materials will make the shoes not vegan.\n\n## Toiletries\n\nWith all items, but particularly makeup, some research is required to determine whether animal testing was involved in the research and development stages of the product.\n\n### Gotchas\n\n- Bar soap is usually made with animal fat\n- 'Cruelty free' does not mean it is free from animal products\n\n## Household items\n\nEverything from household cleansers to pillows may contain animal products, as always it's important to read the ingredients.  \n\n### Gotchas\n\n- Pillows often contain feathers\n\n## Resources\n\n- Beer [Barnivore](http://www.barnivore.com/) is a great source of information\n",
           "relativePermalink": "/en/getting-started/shopping/",
           "weight": null,
-          "permalink" : "http://talkveganto.me/en/getting-started/shopping/",
+          "permalink" : "https://talkveganto.me/en/getting-started/shopping/",
           "section": {
             "friendlyName": "Getting Started",
             "relativePermalink": "/en/getting-started/",
@@ -44,5 +44,5 @@
 
       }
 ],
-    "date": "2019-05-12T11:11:09.629059+01:00"
+    "date": "2019-05-12T11:12:45.127728+01:00"
 }
