@@ -1,0 +1,34 @@
+{
+    "data" : 
+[
+      
+      {
+          "friendlyName": "Finding Options",
+          "rawContent": "\n# Finding Options\n\nBizarrely the salad is often one of the least vegan items on the menu.\n\n## Asking for customisation\n\n## Cross contamination\n",
+          "relativePermalink": "/en/eating-out/finding-options/",
+          "weight": null,
+          "permalink" : "https://talkveganto.me/en/eating-out/finding-options/",
+          "section": {
+            "friendlyName": "Eating Out",
+            "relativePermalink": "/en/eating-out/",
+            "weight": null
+          }
+
+      }
+      , 
+      {
+          "friendlyName": "Dealing with Groups",
+          "rawContent": "\n# Dealing with Groups\n\nThe ease of eating out varies hugely depending on where you are in the world, and also who you're with.  \n\n## Scenarios\n\n### Attending a function you didn't organise\n\nIf you're going a restaurant, find the menu online, and email the restaurant in advance with any questions you have. A little preparation can go a long way to making the process smoother.\n\nIf you're attending a catered function, contact the organiser if possible specifying No Meat, No Dairy, No Eggs, No Honey, do not rely on people knowing what 'vegan' means, even if they claim to!\n\n## Resources\n\n- [HappyCow](https://happycow.com) Is a wonderful website and app helping you to find vegan restaurants and vegan options near you\n",
+          "relativePermalink": "/en/eating-out/dealing-with-groups/",
+          "weight": null,
+          "permalink" : "https://talkveganto.me/en/eating-out/dealing-with-groups/",
+          "section": {
+            "friendlyName": "Eating Out",
+            "relativePermalink": "/en/eating-out/",
+            "weight": null
+          }
+
+      }
+],
+    "date": "2019-05-14T22:01:15.872975+01:00"
+}

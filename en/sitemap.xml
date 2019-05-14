@@ -3,18 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://talkveganto.me/en/getting-started/</loc>
+    <loc>https://talkveganto.me/en/shopping/</loc>
     <lastmod>2019-05-05T16:15:19+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://talkveganto.me/fr/getting-started/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://talkveganto.me/en/getting-started/"
-                />
+  </url>
+  
+  <url>
+    <loc>https://talkveganto.me/en/eating-out/finding-options/</loc>
+    <lastmod>2019-05-14T21:59:23+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://talkveganto.me/en/eating-out/</loc>
+    <lastmod>2019-05-14T21:58:42+01:00</lastmod>
   </url>
   
   <url>
@@ -83,17 +83,17 @@
   </url>
   
   <url>
-    <loc>https://talkveganto.me/en/getting-started/learning-more/</loc>
+    <loc>https://talkveganto.me/en/shopping/learning-more/</loc>
     <lastmod>2019-05-05T16:50:16+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://talkveganto.me/en/getting-started/eating-out/</loc>
+    <loc>https://talkveganto.me/en/eating-out/dealing-with-groups/</loc>
     <lastmod>2019-05-05T16:41:34+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://talkveganto.me/en/getting-started/shopping/</loc>
+    <loc>https://talkveganto.me/en/shopping/shopping/</loc>
     <lastmod>2019-05-05T16:16:17+01:00</lastmod>
   </url>
   
@@ -145,7 +145,7 @@
   
   <url>
     <loc>https://talkveganto.me/en/</loc>
-    <lastmod>2019-05-12T16:07:15+01:00</lastmod>
+    <lastmod>2019-05-14T21:59:23+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
