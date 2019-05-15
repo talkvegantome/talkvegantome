@@ -4,5 +4,19 @@
     "permalink" : "https://talkveganto.me/fr/getting-started/apprendre-plus/"
 }
  ,
-    "date": "2019-05-14T22:01:15.892623+01:00"
+    "languages": [
+        
+        {
+          "shortCode": "en",
+          "name": "English"
+        }
+      
+        , 
+        {
+          "shortCode": "fr",
+          "name": "French"
+        }
+      
+    ],
+    "date": "2019-05-15T22:17:06.124283+01:00"
 }

@@ -4,5 +4,19 @@
     "permalink" : "https://talkveganto.me/en/shopping/learning-more/"
 }
  ,
-    "date": "2019-05-14T22:01:15.87397+01:00"
+    "languages": [
+        
+        {
+          "shortCode": "en",
+          "name": "English"
+        }
+      
+        , 
+        {
+          "shortCode": "fr",
+          "name": "French"
+        }
+      
+    ],
+    "date": "2019-05-15T22:17:06.107411+01:00"
 }
