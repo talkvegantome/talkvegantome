@@ -131,18 +131,18 @@
     "languages": [
         
         {
-          "shortCode": "en",
-          "name": "English"
+          "languageShortCode": "en",
+          "languageName": "English"
         }
       
         , 
         {
-          "shortCode": "fr",
-          "name": "French"
+          "languageShortCode": "fr",
+          "languageName": "French"
         }
       
     ],
     "languageName": "English",
     "languageShortCode": "en",
-    "date": "2019-05-16T16:22:27.36121+01:00"
+    "date": "2019-05-16T16:40:52.450534+01:00"
 }
