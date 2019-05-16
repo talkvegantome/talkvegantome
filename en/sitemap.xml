@@ -3,13 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://talkveganto.me/en/our-mission/</loc>
+    <lastmod>2019-05-16T21:59:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://talkveganto.me/en/vegan-statistics/animals-killed-annually/</loc>
+    <lastmod>2019-05-16T21:35:14+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://talkveganto.me/en/vegan-statistics/land-usage/</loc>
+    <lastmod>2019-05-16T21:24:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://talkveganto.me/en/shopping/household-items/</loc>
+    <lastmod>2019-05-16T21:20:38+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://talkveganto.me/en/shopping/toiletries/</loc>
+    <lastmod>2019-05-16T21:18:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://talkveganto.me/en/shopping/clothes/</loc>
+    <lastmod>2019-05-16T21:18:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://talkveganto.me/en/shopping/e-numbers/</loc>
+    <lastmod>2019-05-16T21:12:55+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://talkveganto.me/en/shopping/</loc>
     <lastmod>2019-05-05T16:15:19+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://talkveganto.me/en/eating-out/finding-options/</loc>
-    <lastmod>2019-05-14T21:59:23+01:00</lastmod>
+    <loc>https://talkveganto.me/en/vegan-statistics/</loc>
+    <lastmod>2019-05-05T16:15:19+01:00</lastmod>
   </url>
   
   <url>
@@ -83,18 +118,8 @@
   </url>
   
   <url>
-    <loc>https://talkveganto.me/en/shopping/learning-more/</loc>
-    <lastmod>2019-05-05T16:50:16+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://talkveganto.me/en/eating-out/dealing-with-groups/</loc>
     <lastmod>2019-05-05T16:41:34+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://talkveganto.me/en/shopping/shopping/</loc>
-    <lastmod>2019-05-05T16:16:17+01:00</lastmod>
   </url>
   
   <url>
@@ -145,7 +170,7 @@
   
   <url>
     <loc>https://talkveganto.me/en/</loc>
-    <lastmod>2019-05-14T21:59:23+01:00</lastmod>
+    <lastmod>2019-05-16T21:59:01+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"

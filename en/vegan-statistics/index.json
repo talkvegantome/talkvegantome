@@ -1,0 +1,50 @@
+{
+    "data" : 
+[
+      
+      {
+          "friendlyName": "Animals Killed Annually",
+          "rawContent": "\n# Number of Animals Killed Annually\n\nThe numbers quoted in this statistic vary between 40 billion and 3 trillion.  \nThe smaller number pertains to land animals (sometimes only mammals) and the latter includes all sea life including shrimp and other small creatures.\n\n## Primary Source\n\nWhile the [Food and Agriculture Organization of the United Nations](http://www.fao.org/faostat/en/#data/QL) database is an incredible resource for information, it does not provide bite sized information.\nhttp://www.bitesizevegan.org/bite-size-vegan-nuggets/qa/quantifying-suffering-cruelty-by-the-numbers/\n\n[Eurostat](http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=apro_mt_pann\u0026lang=en) shows easier to digest numbers for the European Union, though broken down by animal type so you need to do some maths yourself.\n\n## Meta summaries\n\n[BiteSizeVegan](http://www.bitesizevegan.org/bite-size-vegan-nuggets/qa/quantifying-suffering-cruelty-by-the-numbers/) has an excellent article covering the difficulties in calculating these numbers and the guesswork that goes into it.\n\n## TalkVeganToMe Verdict\n\nPrecise numbers are not possible for this statistic, and further research is required by the writing team to come to estimates we can get behind. However the deaths for land animals are incontrovertibly in the billions, and you have to ask: does it really matter if it's 40 billion or 60 billion animals killed needlessly?\n",
+          "relativePermalink": "/en/vegan-statistics/animals-killed-annually/",
+          "weight": 5,
+          "permalink" : "https://talkveganto.me/en/vegan-statistics/animals-killed-annually/",
+          "section": {
+            "friendlyName": "Vegan Statistics",
+            "relativePermalink": "/en/vegan-statistics/",
+            "weight": 1000
+          }
+
+      }
+      , 
+      {
+          "friendlyName": "Land Usage",
+          "rawContent": "\n# Vegan vs Omnivore Land Usage\n\n\u003eLand required to feed 1 person for 1 year:  \n\u003eVegan: 1/6th acre  \n\u003eVegetarian: 3x as much as a vegan  \n\u003eMeat Eater: 18x as much as a vegan  \n\n## Popular Source\n\nThis statistic was popularised by [Cowspiracy](http://www.cowspiracy.com/facts) from whence the above quote was taken.\n\n## Primary Sources\n\n[EarthSave](http://www.earthsave.org/pdf/ofof2006.pdf)\n\n[Eishel, Gordon, et al. \"Land, irrigation water, greenhouse gas, reactive nitrogen burdens of meat, eggs and dairy production in the United States\". Proceedings of the National Academy of Sciences. Vol. 111 No. 33 June 2014](https://www.pnas.org/content/111/33/11996.full)\n\n## TalkVeganToMe Verdict\n\nUnverified\n",
+          "relativePermalink": "/en/vegan-statistics/land-usage/",
+          "weight": 5,
+          "permalink" : "https://talkveganto.me/en/vegan-statistics/land-usage/",
+          "section": {
+            "friendlyName": "Vegan Statistics",
+            "relativePermalink": "/en/vegan-statistics/",
+            "weight": 1000
+          }
+
+      }
+],
+    "languages": [
+        
+        {
+          "languageShortCode": "en",
+          "languageName": "English"
+        }
+      
+        , 
+        {
+          "languageShortCode": "fr",
+          "languageName": "French"
+        }
+      
+    ],
+    "languageName": "English",
+    "languageShortCode": "en",
+    "date": "2019-05-16T22:04:31.767792+01:00"
+}

@@ -1,7 +1,7 @@
 {
     "data" :  {
-    "name": "Earthlings",
-    "permalink" : "https://talkveganto.me/en/documentaries/earthlings/"
+    "name": "Land Usage",
+    "permalink" : "https://talkveganto.me/en/vegan-statistics/land-usage/"
 }
  ,
     "languages": [
@@ -20,5 +20,5 @@
     ],
     "languageName": "English",
     "languageShortCode": "en",
-    "date": "2019-05-16T22:04:31.76818+01:00"
+    "date": "2019-05-16T22:04:31.765836+01:00"
 }

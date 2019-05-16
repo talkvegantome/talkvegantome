@@ -3,15 +3,99 @@
 [
       
       {
-          "friendlyName": "Finding Options",
-          "rawContent": "\n# Finding Options\n\nBizarrely the salad is often one of the least vegan items on the menu.\n\n## Asking for customisation\n\n## Cross contamination\n",
-          "relativePermalink": "/en/eating-out/finding-options/",
-          "weight": null,
-          "permalink" : "https://talkveganto.me/en/eating-out/finding-options/",
+          "friendlyName": "Our Mission",
+          "rawContent": "\n# Our Mission\n\n1. Make the day-to- day lives of vegans easier by making information easily accessible\n2. Make vegan advocacy in all its forms easier to learn about, understand, and do\n3. Ensure we do not promote messaging which harm any other justice movements\n4. Embody the compassion that veganism typifies in all our material and interactions\n5. Ensure the accuracy of our information and provide _full disclosure_ of mitigating information even if it undermines the argument being presented\n6. Not to engage in the gatekeeping of veganism (no-one can take away your V card)\n7. Not to use the platform to further the personal agenda or profit of the individual contributors\n8. Use the platform to promote inclusion and intersectional messaging wherever possible\n",
+          "relativePermalink": "/en/our-mission/",
+          "weight": 5,
+          "permalink" : "https://talkveganto.me/en/our-mission/",
           "section": {
-            "friendlyName": "Eating Out",
-            "relativePermalink": "/en/eating-out/",
+            "friendlyName": "TalkVeganToMe",
+            "relativePermalink": "/en/",
             "weight": null
+          }
+
+      }
+      , 
+      {
+          "friendlyName": "Animals Killed Annually",
+          "rawContent": "\n# Number of Animals Killed Annually\n\nThe numbers quoted in this statistic vary between 40 billion and 3 trillion.  \nThe smaller number pertains to land animals (sometimes only mammals) and the latter includes all sea life including shrimp and other small creatures.\n\n## Primary Source\n\nWhile the [Food and Agriculture Organization of the United Nations](http://www.fao.org/faostat/en/#data/QL) database is an incredible resource for information, it does not provide bite sized information.\nhttp://www.bitesizevegan.org/bite-size-vegan-nuggets/qa/quantifying-suffering-cruelty-by-the-numbers/\n\n[Eurostat](http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=apro_mt_pann\u0026lang=en) shows easier to digest numbers for the European Union, though broken down by animal type so you need to do some maths yourself.\n\n## Meta summaries\n\n[BiteSizeVegan](http://www.bitesizevegan.org/bite-size-vegan-nuggets/qa/quantifying-suffering-cruelty-by-the-numbers/) has an excellent article covering the difficulties in calculating these numbers and the guesswork that goes into it.\n\n## TalkVeganToMe Verdict\n\nPrecise numbers are not possible for this statistic, and further research is required by the writing team to come to estimates we can get behind. However the deaths for land animals are incontrovertibly in the billions, and you have to ask: does it really matter if it's 40 billion or 60 billion animals killed needlessly?\n",
+          "relativePermalink": "/en/vegan-statistics/animals-killed-annually/",
+          "weight": 5,
+          "permalink" : "https://talkveganto.me/en/vegan-statistics/animals-killed-annually/",
+          "section": {
+            "friendlyName": "Vegan Statistics",
+            "relativePermalink": "/en/vegan-statistics/",
+            "weight": 1000
+          }
+
+      }
+      , 
+      {
+          "friendlyName": "Land Usage",
+          "rawContent": "\n# Vegan vs Omnivore Land Usage\n\n\u003eLand required to feed 1 person for 1 year:  \n\u003eVegan: 1/6th acre  \n\u003eVegetarian: 3x as much as a vegan  \n\u003eMeat Eater: 18x as much as a vegan  \n\n## Popular Source\n\nThis statistic was popularised by [Cowspiracy](http://www.cowspiracy.com/facts) from whence the above quote was taken.\n\n## Primary Sources\n\n[EarthSave](http://www.earthsave.org/pdf/ofof2006.pdf)\n\n[Eishel, Gordon, et al. \"Land, irrigation water, greenhouse gas, reactive nitrogen burdens of meat, eggs and dairy production in the United States\". Proceedings of the National Academy of Sciences. Vol. 111 No. 33 June 2014](https://www.pnas.org/content/111/33/11996.full)\n\n## TalkVeganToMe Verdict\n\nUnverified\n",
+          "relativePermalink": "/en/vegan-statistics/land-usage/",
+          "weight": 5,
+          "permalink" : "https://talkveganto.me/en/vegan-statistics/land-usage/",
+          "section": {
+            "friendlyName": "Vegan Statistics",
+            "relativePermalink": "/en/vegan-statistics/",
+            "weight": 1000
+          }
+
+      }
+      , 
+      {
+          "friendlyName": "Household Items",
+          "rawContent": "\n## Household items\n\nEverything from household cleansers to pillows may contain animal products, as always it's important to read the ingredients.  \n\n### Gotchas\n\n- Pillows usually contain feathers (obvious, but easily forgotten!)\n",
+          "relativePermalink": "/en/shopping/household-items/",
+          "weight": 5,
+          "permalink" : "https://talkveganto.me/en/shopping/household-items/",
+          "section": {
+            "friendlyName": "Vegan Statistics",
+            "relativePermalink": "/en/shopping/",
+            "weight": 1000
+          }
+
+      }
+      , 
+      {
+          "friendlyName": "Toiletries",
+          "rawContent": "\n# Toiletries\n\nWith all items, but particularly makeup, some research is required to determine whether animal testing was involved in the research and development stages of the product.\n\n## Gotchas\n\n- Bar soap is usually made with animal fat\n- 'Cruelty free' does not mean it is free from animal products\n\n## Helpful Websites\n\n[Cruelty Free Kitty - Ultimate Guide to Cruelty Free Makeup](https://www.crueltyfreekitty.com/ultimate-guide-to-cruelty-free-makeup/)\n",
+          "relativePermalink": "/en/shopping/toiletries/",
+          "weight": 5,
+          "permalink" : "https://talkveganto.me/en/shopping/toiletries/",
+          "section": {
+            "friendlyName": "Vegan Statistics",
+            "relativePermalink": "/en/shopping/",
+            "weight": 1000
+          }
+
+      }
+      , 
+      {
+          "friendlyName": "Clothes",
+          "rawContent": "\n# Clothes\n\nOften less thought about than food, the following products on clothes will not be vegan.\n\n- Leather (including Suede)\n- Wool\n- Silk\n- Fur\n- Feathers\n\n\n\n## Gotchas\n\nIt's advisable to patronise vegan shoe establishments in particular as glues used in the manufacturing process for shoes made of otherwise vegan materials will make the shoes not vegan.\n",
+          "relativePermalink": "/en/shopping/clothes/",
+          "weight": 5,
+          "permalink" : "https://talkveganto.me/en/shopping/clothes/",
+          "section": {
+            "friendlyName": "Vegan Statistics",
+            "relativePermalink": "/en/shopping/",
+            "weight": 1000
+          }
+
+      }
+      , 
+      {
+          "friendlyName": "E Numbers",
+          "rawContent": "\n# E Numbers\n\nAnimal products sometimes hide behind the following enumbers.\n\n- E120 - Never vegan\n- E322 - Usually vegan\n- E422 - Usually vegan\n- E542 - Never vegan\n- E631 - Usually not vegan\n- E901 - Never vegan\n- E904 - Never vegan\n- E471 - Usually vegan\n- E920 - Check for further information\n\n**Source:** [Vegan Society](https://www.vegansociety.com/whats-new/blog/how-avoid-buying-non-vegan-products)\n",
+          "relativePermalink": "/en/shopping/e-numbers/",
+          "weight": 5,
+          "permalink" : "https://talkveganto.me/en/shopping/e-numbers/",
+          "section": {
+            "friendlyName": "Vegan Statistics",
+            "relativePermalink": "/en/shopping/",
+            "weight": 1000
           }
 
       }
@@ -74,7 +158,7 @@
       , 
       {
           "friendlyName": "Home",
-          "rawContent": "\n\n# Welcome to TalkVeganToMe\n\nTalkVeganToMe is an intersectional, compassionate, collaborative project intended to provide vegans old and new alike a central resource for commonly required information about veganism.  \n\n## Getting Started\n\nTODO\n\n## Our Mission\n\n1. Make the day-to- day lives of vegans easier by making information easily accessible\n2. Make vegan advocacy in all its forms easier to learn about, understand, and do\n3. Ensure we do not promote messaging which harm any other justice movements\n4. Embody the compassion that veganism typifies in all our material and interactions\n5. Ensure the accuracy of our information and provide _full disclosure_ of mitigating information even if it undermines the argument being presented\n6. Not to engage in the gatekeeping of veganism (no-one can take away your V card)\n7. Not to use the platform to further the personal agenda or profit of the individual contributors\n8. Use the platform to promote inclusion and intersectional messaging wherever possible\n\n\n## Collaborating\n\nWant to add content, or just correct a typo? You can visit the [Github Repo](https://github.com/talkvegantome/talkvegan-hugo) where you will find a full guide on how to contribute.\n",
+          "rawContent": "\n\n# Welcome to TalkVeganToMe\n\nTalkVeganToMe is an intersectional, compassionate, collaborative project intended to provide vegans old and new alike a central resource for commonly required information about veganism.  \n\nThis app is intended to act as a repository of quick access information for vegans to handle everyday situations.\n\n- [What was that stat about land usage?]({{\u003c ref \"vegan-statistics/land-usage/\"\u003e}})\n- [Which E Numbers aren't vegan?]({{\u003c ref \"shopping/e-numbers/\"\u003e}})\n- [How do I get vegan food at a work function?]({{\u003c ref \"eating-out/dealing-with-groups/\"\u003e}})\n\n# Our Mission\n\nYou can read more about us on the [Our Mission]({{\u003c ref \"our-mission\" \u003e}}) page.\n\n## Collaborating\n\nWant to add content, or just correct a typo? You can visit the [Github Repo](https://github.com/talkvegantome/talkvegan-hugo) where you will find a full guide on how to contribute.\n",
           "relativePermalink": "/en/splash/",
           "weight": null,
           "permalink" : "https://talkveganto.me/en/splash/",
@@ -87,22 +171,8 @@
       }
       , 
       {
-          "friendlyName": "Learning More",
-          "rawContent": "\n# Learning More\n\n## Websites\n\n- [The Vegan Society](https://vegansociety.com) - Provides a wealth of information about getting started, the grandaddies of Veganism\n\n\n## Books\n\n## Films\n\n- [Land of Hope and Glory]({{\u003c ref \"/documentaries/land-of-hope-and-glory\" \u003e}})\n- [Dominion]({{\u003c ref \"/documentaries/dominion\" \u003e}})\n- [Earthlings]({{\u003c ref \"/documentaries/earthlings\" \u003e}})\n\n## Podcasts\n\n- [The Bearded Vegans](https://www.thebeardedvegans.com/)\n\n## YouTube Channels\n\n- [Earthling Ed](https://www.youtube.com/channel/UCVRrGAcUc7cblUzOhI1KfFg)\n",
-          "relativePermalink": "/en/shopping/learning-more/",
-          "weight": null,
-          "permalink" : "https://talkveganto.me/en/shopping/learning-more/",
-          "section": {
-            "friendlyName": "Shopping",
-            "relativePermalink": "/en/shopping/",
-            "weight": 1000
-          }
-
-      }
-      , 
-      {
           "friendlyName": "Dealing with Groups",
-          "rawContent": "\n# Dealing with Groups\n\nThe ease of eating out varies hugely depending on where you are in the world, and also who you're with.  \n\n## Scenarios\n\n### Attending a function you didn't organise\n\nIf you're going a restaurant, find the menu online, and email the restaurant in advance with any questions you have. A little preparation can go a long way to making the process smoother.\n\nIf you're attending a catered function, contact the organiser if possible specifying No Meat, No Dairy, No Eggs, No Honey, do not rely on people knowing what 'vegan' means, even if they claim to!\n\n## Resources\n\n- [HappyCow](https://happycow.com) Is a wonderful website and app helping you to find vegan restaurants and vegan options near you\n",
+          "rawContent": "\n# Dealing with Groups\n\nThe ease of eating out varies hugely depending on where you are in the world, and also who you're with.  \n\n## Scenarios\n\n### Attending a function you didn't organise\n\nIf you're going a restaurant, find the menu online, and email the restaurant in advance with any questions you have. A little preparation can go a long way to making the process smoother.\n\nIf you're attending a catered function, contact the organiser if possible and explain the dietary requirements of veganism.\n\n**Important:** Specify No Meat, No Dairy, No Eggs, No Honey. Kind souls may be quick to say they know what veganism means, but all too often the lesser known things (e.g. honey) or even the better known things (e.g milk) get missed.\n\n### Visiting friends and family\n\nThis can be one of the most difficult scenarios to navigate in day to day life as a vegan. People can take food quite personally, and being told that you won't eat their food can elicit a negative reaction.\n\nRemember, what you put in your body is entirely down to you. No matter how other people feel, or what their expectations may be, you do not have to eat or drink anything you do not want to.\n\nGetting this message across in a non-combative way can be challenging. If you have the means, and are willing to go the extra mile to keep the peace, try offering to cook, or bringing a preprepared meal for yourself or for everyone. Alternatively ask whether they can set a small portion of the meal aside that is vegan prior to being combined with the rest of the meal (e.g. side vegatables, rice, dried pasta, etc.).\n\n### Organising a meal\n\nWhether at home, or in a restaurant, this can be one of the most rewarding activism experiences as it provides an opportunity to show off vegan food.  \nYou may encounter some resistance if you choose a vegan place for a group of primarily omnivores, but consider how often you must make allowances for their 'dietary choices'. Obviously whether this is a good idea is down to your judgement of the situation based on your knowledge of the crowd.\n\n\n## Resources\n\n- [HappyCow](https://happycow.com) Is a wonderful website and app helping you to find vegan restaurants and vegan options near you\n",
           "relativePermalink": "/en/eating-out/dealing-with-groups/",
           "weight": null,
           "permalink" : "https://talkveganto.me/en/eating-out/dealing-with-groups/",
@@ -110,20 +180,6 @@
             "friendlyName": "Eating Out",
             "relativePermalink": "/en/eating-out/",
             "weight": null
-          }
-
-      }
-      , 
-      {
-          "friendlyName": "Shopping",
-          "rawContent": "\n# Shopping\n\nShopping as a vegan requires a little more attention than shopping as an omnivore.  \n\nIn this section we will cover the major everyday shopping scenarios.\n\n## Food\n\nWhen you first start checking labels on products in the supermarket it can seem overwhelming to check for everything, especially when it comes to E numbers and obscure ingredients. Do the best you can, but try not to overwhelm yourself.\n\n### Vegetarian Products\n\nIt's easy to be lulled into a false sense of security by products made from vegetarian manufacturers like Quorn. But keep a watchful eye on the ingredients of these products as they commonly contain non-vegan ingredients even when you least expect!\n\n### E Numbers\n\n- E120 - Never vegan\n- E322 - Usually vegan\n- E422 - Usually vegan\n- E542 - Never vegan\n- E631 - Usually not vegan\n- E901 - Never vegan\n- E904 - Never vegan\n- E471 - Usually vegan\n- E920 - Check for further information\n\n**Source:** [Vegan Society](https://www.vegansociety.com/whats-new/blog/how-avoid-buying-non-vegan-products)\n\n### Gotchas\n\n- Honey\n- Beer/Wine\n- Bread (Regional. particularly in the UK often contains milk)\n- Smoothies (Often contain yogurt)\n- Chocolate (Dark chocolate is usually fine, but always check the packaging for milk!)\n\n## Clothes\n\nOften less thought about than food, the following products on clothes will not be vegan.\n\n- Leather (including Suede)\n- Wool\n- Silk\n- Fur\n- Feathers\n\n### Gotchas\n\nIt's advisable to patronise vegan shoe establishments in particular as glues used in the manufacturing process for shoes made of otherwise vegan materials will make the shoes not vegan.\n\n## Toiletries\n\nWith all items, but particularly makeup, some research is required to determine whether animal testing was involved in the research and development stages of the product.\n\n### Gotchas\n\n- Bar soap is usually made with animal fat\n- 'Cruelty free' does not mean it is free from animal products\n\n## Household items\n\nEverything from household cleansers to pillows may contain animal products, as always it's important to read the ingredients.  \n\n### Gotchas\n\n- Pillows often contain feathers\n\n## Resources\n\n- Beer [Barnivore](http://www.barnivore.com/) is a great source of information\n",
-          "relativePermalink": "/en/shopping/shopping/",
-          "weight": null,
-          "permalink" : "https://talkveganto.me/en/shopping/shopping/",
-          "section": {
-            "friendlyName": "Shopping",
-            "relativePermalink": "/en/shopping/",
-            "weight": 1000
           }
 
       }
@@ -144,5 +200,5 @@
     ],
     "languageName": "English",
     "languageShortCode": "en",
-    "date": "2019-05-16T16:40:52.450534+01:00"
+    "date": "2019-05-16T22:04:31.770668+01:00"
 }
