@@ -9,7 +9,7 @@
           "weight": 5,
           "permalink" : "https://talkveganto.me/en/shopping/household-items/",
           "section": {
-            "friendlyName": "Vegan Statistics",
+            "friendlyName": "Shopping",
             "relativePermalink": "/en/shopping/",
             "weight": 1000
           }
@@ -23,7 +23,7 @@
           "weight": 5,
           "permalink" : "https://talkveganto.me/en/shopping/toiletries/",
           "section": {
-            "friendlyName": "Vegan Statistics",
+            "friendlyName": "Shopping",
             "relativePermalink": "/en/shopping/",
             "weight": 1000
           }
@@ -37,7 +37,7 @@
           "weight": 5,
           "permalink" : "https://talkveganto.me/en/shopping/clothes/",
           "section": {
-            "friendlyName": "Vegan Statistics",
+            "friendlyName": "Shopping",
             "relativePermalink": "/en/shopping/",
             "weight": 1000
           }
@@ -51,7 +51,7 @@
           "weight": 5,
           "permalink" : "https://talkveganto.me/en/shopping/e-numbers/",
           "section": {
-            "friendlyName": "Vegan Statistics",
+            "friendlyName": "Shopping",
             "relativePermalink": "/en/shopping/",
             "weight": 1000
           }
@@ -74,5 +74,5 @@
     ],
     "languageName": "English",
     "languageShortCode": "en",
-    "date": "2019-05-16T22:04:31.767951+01:00"
+    "date": "2019-05-16T22:07:28.210159+01:00"
 }
