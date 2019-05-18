@@ -48,6 +48,22 @@
   </url>
   
   <url>
+    <loc>https://talkveganto.me/en/</loc>
+    <lastmod>2019-05-16T21:59:01+01:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://talkveganto.me/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://talkveganto.me/en/"
+                />
+  </url>
+  
+  <url>
     <loc>https://talkveganto.me/en/eating-out/</loc>
     <lastmod>2019-05-14T21:58:42+01:00</lastmod>
   </url>
@@ -55,6 +71,22 @@
   <url>
     <loc>https://talkveganto.me/en/privacy-policy/</loc>
     <lastmod>2019-05-12T16:07:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://talkveganto.me/en/documentaries/</loc>
+    <lastmod>2019-05-11T19:23:19+01:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://talkveganto.me/fr/documentaries/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://talkveganto.me/en/documentaries/"
+                />
   </url>
   
   <url>
@@ -138,22 +170,6 @@
   </url>
   
   <url>
-    <loc>https://talkveganto.me/en/documentaries/</loc>
-    <lastmod>2019-05-11T19:23:19+01:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://talkveganto.me/fr/documentaries/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://talkveganto.me/en/documentaries/"
-                />
-  </url>
-  
-  <url>
     <loc>https://talkveganto.me/en/tags/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -165,22 +181,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://talkveganto.me/en/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://talkveganto.me/en/</loc>
-    <lastmod>2019-05-16T21:59:01+01:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://talkveganto.me/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://talkveganto.me/en/"
                 />
   </url>
   
