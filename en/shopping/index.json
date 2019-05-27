@@ -45,6 +45,20 @@
       }
       , 
       {
+          "friendlyName": "Food",
+          "rawContent": "\n# Food and Drink\n\nWhen you first start checking labels on products in the supermarket it can seem overwhelming to check for everything, especially when it comes to E numbers and obscure ingredients. Do the best you can, but remember that mistakes do happen, just treat them as learning experiences.\n\n## Gotchas\n\nIt's amazing what can contain animal products, here are a few of the things that surprise new vegans and can catch them out.\n\n- Honey (It is an animal product)\n- [E-numbers]({{ ref: \"shopping/e-numbers\"}}) (Animal products hide behind some e numbers)\n- Beer/Wine (Fish swim bladders are often used in the filtering process)\n- Bread (Regional. particularly in the UK often contains milk)\n- Smoothies (Often contain yogurt)\n- Chocolate (Dark chocolate is usually fine, but always check the packaging for milk)\n\n\n## E-numbers\n\nSee the [E-Numbers]({{ ref: \"shopping/e-numbers\"}}) section for more!\n\n## Vegetarian Products\n\nIt's easy to be lulled into a false sense of security by products made from vegetarian manufacturers like Quorn. But keep a watchful eye on the ingredients of these products as they commonly contain non-vegan ingredients even when you least expect! \n\n## Resources\n\n- Beer [Barnivore](http://www.barnivore.com/) is a great source of information\n- [Vegan Society](https://www.vegansociety.com/lifestyle/food-and-drink)",
+          "relativePermalink": "/en/shopping/food/",
+          "weight": 5,
+          "permalink" : "https://talkveganto.me/en/shopping/food/",
+          "section": {
+            "friendlyName": "Shopping",
+            "relativePermalink": "/en/shopping/",
+            "weight": 1000
+          }
+
+      }
+      , 
+      {
           "friendlyName": "E Numbers",
           "rawContent": "\n# E Numbers\n\nAnimal products sometimes hide behind the following enumbers.\n\n- E120 - Never vegan\n- E322 - Usually vegan\n- E422 - Usually vegan\n- E542 - Never vegan\n- E631 - Usually not vegan\n- E901 - Never vegan\n- E904 - Never vegan\n- E471 - Usually vegan\n- E920 - Check for further information\n\n**Source:** [Vegan Society](https://www.vegansociety.com/whats-new/blog/how-avoid-buying-non-vegan-products)\n",
           "relativePermalink": "/en/shopping/e-numbers/",
@@ -74,5 +88,5 @@
     ],
     "languageName": "English",
     "languageShortCode": "en",
-    "date": "2019-05-18T13:19:51.984784532Z"
+    "date": "2019-05-27T19:40:37.520921729Z"
 }

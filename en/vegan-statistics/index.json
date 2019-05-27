@@ -3,6 +3,20 @@
 [
       
       {
+          "friendlyName": "Animal Life Expectancy",
+          "rawContent": "\n## Cows\n\u003e Maximum lifespan in domestic cows may exceed 20 years. However, lifespan is often limited by human culling.  \n[Walker's Animals of the World'](https://jhupbooks.press.jhu.edu/title/walkers-mammals-world)\n\n- Veal Calves live between 1 and 24 weeks prior to slaughter in comparison to a 15-20 year natural lifespan [Wikipedia](https://en.wikipedia.org/wiki/Veal#cite_note-4)\n- Dairy Cows are typically sent to slaughter for beef at 4 years old instead of a 15-20 year lifespan [Illinois Livestock Trail](http://livestocktrail.illinois.edu/dairynet/paperdisplay.cfm?contentid=354)\n\n## Chickens\n\u003e [H]ens have a natural lifespan of up to 12 years  \n\u003e [RSPCA.org.au](https://www.rspca.org.au/layer-hen-faq)\n\n\n- Broiler chickens (raised for meat) are slaughtered at between 5 and 7 weeks old, in comparison to a natural lifespan of up to 8 years [CIWF](https://www.ciwf.org.uk/media/3818904/welfare-of-broilers-in-the-eu.pdf), [BBC News](https://www.bbc.co.uk/news/magazine-29219843)\n- Egg Laying Hens are slaughtered after 12-18 months due to declining productivity [CIWF](https://www.ciwf.org.uk/farm-animals/chickens/egg-laying-hens/), [RSPCA](https://www.rspca.org.uk/adviceandwelfare/farm/layinghens/farming)\n- Male chicks are useless for egg laying and are killed in the billions the day the are born [Poultry Science](https://academic.oup.com/ps/article/97/3/749/4780252)\n\n## Pigs\n- Pigs live over ten years [moderfarmer.com](https://modernfarmer.com/2014/03/pig-find-next-pig-thing/) and are typically slaughtered at about 6 months\n[Pork.org](https://www.pork.org/facts/pig-farming/life-cycle-of-a-market-pig/)\n\n\n\n## Sources\n[Aussie Farms - Age of Animals Slaughtered](https://www.aussiefarms.org.au/kb/48-age-animals-slaughtered)\n",
+          "relativePermalink": "/en/vegan-statistics/animal-life-expectancy/",
+          "weight": 5,
+          "permalink" : "https://talkveganto.me/en/vegan-statistics/animal-life-expectancy/",
+          "section": {
+            "friendlyName": "Vegan Statistics",
+            "relativePermalink": "/en/vegan-statistics/",
+            "weight": 1000
+          }
+
+      }
+      , 
+      {
           "friendlyName": "Animals Killed Annually",
           "rawContent": "\n# Number of Animals Killed Annually\n\nThe numbers quoted in this statistic vary between 40 billion and 3 trillion.  \nThe smaller number pertains to land animals (sometimes only mammals) and the latter includes all sea life including shrimp and other small creatures.\n\n## Primary Source\n\nWhile the [Food and Agriculture Organization of the United Nations](http://www.fao.org/faostat/en/#data/QL) database is an incredible resource for information, it does not provide bite sized information.\n\n[Eurostat](http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=apro_mt_pann\u0026lang=en) shows easier to digest numbers for the European Union, though broken down by animal type so you need to do some maths yourself.\n\n## Meta Summaries\n\n[BiteSizeVegan](http://www.bitesizevegan.org/bite-size-vegan-nuggets/qa/quantifying-suffering-cruelty-by-the-numbers/) has an excellent article covering the difficulties in calculating these numbers and the guesswork that goes into it.\n\n## TalkVeganToMe Verdict\n\nPrecise numbers are not possible for this statistic, and further research is required by the writing team to come to estimates we can get behind. However the deaths for land animals are incontrovertibly in the billions, and you have to ask: does it really matter if it's 40 billion or 60 billion animals killed needlessly?\n",
           "relativePermalink": "/en/vegan-statistics/animals-killed-annually/",
@@ -46,5 +60,5 @@
     ],
     "languageName": "English",
     "languageShortCode": "en",
-    "date": "2019-05-18T13:19:51.984639529Z"
+    "date": "2019-05-27T19:40:37.520897386Z"
 }

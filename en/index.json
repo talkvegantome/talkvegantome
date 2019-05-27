@@ -3,6 +3,20 @@
 [
       
       {
+          "friendlyName": "Animal Life Expectancy",
+          "rawContent": "\n## Cows\n\u003e Maximum lifespan in domestic cows may exceed 20 years. However, lifespan is often limited by human culling.  \n[Walker's Animals of the World'](https://jhupbooks.press.jhu.edu/title/walkers-mammals-world)\n\n- Veal Calves live between 1 and 24 weeks prior to slaughter in comparison to a 15-20 year natural lifespan [Wikipedia](https://en.wikipedia.org/wiki/Veal#cite_note-4)\n- Dairy Cows are typically sent to slaughter for beef at 4 years old instead of a 15-20 year lifespan [Illinois Livestock Trail](http://livestocktrail.illinois.edu/dairynet/paperdisplay.cfm?contentid=354)\n\n## Chickens\n\u003e [H]ens have a natural lifespan of up to 12 years  \n\u003e [RSPCA.org.au](https://www.rspca.org.au/layer-hen-faq)\n\n\n- Broiler chickens (raised for meat) are slaughtered at between 5 and 7 weeks old, in comparison to a natural lifespan of up to 8 years [CIWF](https://www.ciwf.org.uk/media/3818904/welfare-of-broilers-in-the-eu.pdf), [BBC News](https://www.bbc.co.uk/news/magazine-29219843)\n- Egg Laying Hens are slaughtered after 12-18 months due to declining productivity [CIWF](https://www.ciwf.org.uk/farm-animals/chickens/egg-laying-hens/), [RSPCA](https://www.rspca.org.uk/adviceandwelfare/farm/layinghens/farming)\n- Male chicks are useless for egg laying and are killed in the billions the day the are born [Poultry Science](https://academic.oup.com/ps/article/97/3/749/4780252)\n\n## Pigs\n- Pigs live over ten years [moderfarmer.com](https://modernfarmer.com/2014/03/pig-find-next-pig-thing/) and are typically slaughtered at about 6 months\n[Pork.org](https://www.pork.org/facts/pig-farming/life-cycle-of-a-market-pig/)\n\n\n\n## Sources\n[Aussie Farms - Age of Animals Slaughtered](https://www.aussiefarms.org.au/kb/48-age-animals-slaughtered)\n",
+          "relativePermalink": "/en/vegan-statistics/animal-life-expectancy/",
+          "weight": 5,
+          "permalink" : "https://talkveganto.me/en/vegan-statistics/animal-life-expectancy/",
+          "section": {
+            "friendlyName": "Vegan Statistics",
+            "relativePermalink": "/en/vegan-statistics/",
+            "weight": 1000
+          }
+
+      }
+      , 
+      {
           "friendlyName": "Our Mission",
           "rawContent": "\n# Our Mission\n\n1. Make the day-to- day lives of vegans easier by making information easily accessible\n2. Make vegan advocacy in all its forms easier to learn about, understand, and do\n3. Ensure we do not promote messaging which harm any other justice movements\n4. Embody the compassion that veganism typifies in all our material and interactions\n5. Ensure the accuracy of our information and provide _full disclosure_ of mitigating information even if it undermines the argument being presented\n6. Not to engage in the gatekeeping of veganism (no-one can take away your V card)\n7. Not to use the platform to further the personal agenda or profit of the individual contributors\n8. Use the platform to promote inclusion and intersectional messaging wherever possible\n",
           "relativePermalink": "/en/our-mission/",
@@ -87,6 +101,20 @@
       }
       , 
       {
+          "friendlyName": "Food",
+          "rawContent": "\n# Food and Drink\n\nWhen you first start checking labels on products in the supermarket it can seem overwhelming to check for everything, especially when it comes to E numbers and obscure ingredients. Do the best you can, but remember that mistakes do happen, just treat them as learning experiences.\n\n## Gotchas\n\nIt's amazing what can contain animal products, here are a few of the things that surprise new vegans and can catch them out.\n\n- Honey (It is an animal product)\n- [E-numbers]({{ ref: \"shopping/e-numbers\"}}) (Animal products hide behind some e numbers)\n- Beer/Wine (Fish swim bladders are often used in the filtering process)\n- Bread (Regional. particularly in the UK often contains milk)\n- Smoothies (Often contain yogurt)\n- Chocolate (Dark chocolate is usually fine, but always check the packaging for milk)\n\n\n## E-numbers\n\nSee the [E-Numbers]({{ ref: \"shopping/e-numbers\"}}) section for more!\n\n## Vegetarian Products\n\nIt's easy to be lulled into a false sense of security by products made from vegetarian manufacturers like Quorn. But keep a watchful eye on the ingredients of these products as they commonly contain non-vegan ingredients even when you least expect! \n\n## Resources\n\n- Beer [Barnivore](http://www.barnivore.com/) is a great source of information\n- [Vegan Society](https://www.vegansociety.com/lifestyle/food-and-drink)",
+          "relativePermalink": "/en/shopping/food/",
+          "weight": 5,
+          "permalink" : "https://talkveganto.me/en/shopping/food/",
+          "section": {
+            "friendlyName": "Shopping",
+            "relativePermalink": "/en/shopping/",
+            "weight": 1000
+          }
+
+      }
+      , 
+      {
           "friendlyName": "E Numbers",
           "rawContent": "\n# E Numbers\n\nAnimal products sometimes hide behind the following enumbers.\n\n- E120 - Never vegan\n- E322 - Usually vegan\n- E422 - Usually vegan\n- E542 - Never vegan\n- E631 - Usually not vegan\n- E901 - Never vegan\n- E904 - Never vegan\n- E471 - Usually vegan\n- E920 - Check for further information\n\n**Source:** [Vegan Society](https://www.vegansociety.com/whats-new/blog/how-avoid-buying-non-vegan-products)\n",
           "relativePermalink": "/en/shopping/e-numbers/",
@@ -158,7 +186,7 @@
       , 
       {
           "friendlyName": "Home",
-          "rawContent": "\n\n# Welcome to TalkVeganToMe\n\nTalkVeganToMe is an intersectional, compassionate, collaborative project intended to provide vegans old and new alike a central resource for commonly required information about veganism.  \n\nThis app is intended to act as a repository of quick access information for vegans to handle everyday situations.\n\n- [What was that stat about land usage?]({{\u003c ref \"vegan-statistics/land-usage/\"\u003e}})\n- [Which E Numbers aren't vegan?]({{\u003c ref \"shopping/e-numbers/\"\u003e}})\n- [How do I get vegan food at a work function?]({{\u003c ref \"eating-out/dealing-with-groups/\"\u003e}})\n\n# Our Mission\n\nYou can read more about us on the [Our Mission]({{\u003c ref \"our-mission\" \u003e}}) page.\n\n## Collaborating\n\nWant to add content, or just correct a typo? You can visit the [Github Repo](https://github.com/talkvegantome/talkvegan-hugo) where you will find a full guide on how to contribute.\n",
+          "rawContent": "\n\n# Welcome to TalkVeganToMe\n\nTalkVeganToMe is a pro-intersectional, compassionate, collaborative project intended to provide vegans old and new alike a central resource for commonly required information about veganism.  \n\nThis app is intended to act as a repository of quick access information for vegans to handle everyday situations.\n\n- [What was that stat about land usage?]({{\u003c ref \"vegan-statistics/land-usage/\"\u003e}})\n- [Which E Numbers aren't vegan?]({{\u003c ref \"shopping/e-numbers/\"\u003e}})\n- [How do I get vegan food at a work function?]({{\u003c ref \"eating-out/dealing-with-groups/\"\u003e}})\n\n# Our Mission\n\nYou can read more about us on the [Our Mission]({{\u003c ref \"our-mission\" \u003e}}) page.\n\n## Collaborating\n\nWant to add content, or just correct a typo? You can visit the [Github Repo](https://github.com/talkvegantome/talkvegan-hugo) where you will find a full guide on how to contribute.\n",
           "relativePermalink": "/en/splash/",
           "weight": null,
           "permalink" : "https://talkveganto.me/en/splash/",
@@ -200,5 +228,5 @@
     ],
     "languageName": "English",
     "languageShortCode": "en",
-    "date": "2019-05-18T13:19:51.985545731Z"
+    "date": "2019-05-27T19:40:37.522701999Z"
 }

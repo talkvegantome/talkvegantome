@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://talkveganto.me/en/vegan-statistics/animal-life-expectancy/</loc>
+    <lastmod>2019-05-27T19:47:28+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://talkveganto.me/en/our-mission/</loc>
     <lastmod>2019-05-16T21:59:01+01:00</lastmod>
   </url>
@@ -33,6 +38,11 @@
   </url>
   
   <url>
+    <loc>https://talkveganto.me/en/shopping/food/</loc>
+    <lastmod>2019-05-16T21:17:04+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://talkveganto.me/en/shopping/e-numbers/</loc>
     <lastmod>2019-05-16T21:12:55+01:00</lastmod>
   </url>
@@ -49,7 +59,7 @@
   
   <url>
     <loc>https://talkveganto.me/en/</loc>
-    <lastmod>2019-05-16T21:59:01+01:00</lastmod>
+    <lastmod>2019-05-27T19:47:28+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
