@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://talkveganto.me/en/vegan-statistics/water-usage/</loc>
+    <lastmod>2019-05-27T21:25:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://talkveganto.me/en/vegan-statistics/animal-slaughter-methods/</loc>
+    <lastmod>2019-05-27T20:52:26+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://talkveganto.me/en/vegan-statistics/animal-life-expectancy/</loc>
     <lastmod>2019-05-27T19:47:28+01:00</lastmod>
   </url>
@@ -59,7 +69,7 @@
   
   <url>
     <loc>https://talkveganto.me/en/</loc>
-    <lastmod>2019-05-27T19:47:28+01:00</lastmod>
+    <lastmod>2019-05-27T21:25:43+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
