@@ -1,0 +1,36 @@
+{
+    "data" : 
+[
+      
+      {
+          "friendlyName": "Protein",
+          "rawContent": "\n# Can't get enough protein\n\n\u003e But you can't get enough protein on a vegan diet!\n\nA common misconception with non-vegans is that a vegan diet is that it's difficult or impossible to get enough protein. \n\n\u003e The Recommended Dietary Allowance (RDA) for protein is a modest 0.8 grams of protein per kilogram of body weight.  \n\u003e - [Harvard Health Publishing](https://www.health.harvard.edu/blog/how-much-protein-do-you-need-every-day-201506188096)\n\nSo for a 70kg human, that would be a requirement of about *56 grams per day*.\n\n## Daily Protein Illustration\n\nAn illustrative daily meal plan might look like the below\n\n### Breakfast - Peanut Butter Toast\n\n - Peanut Butter - 189kcal - 32g - [7.68g of protein](https://ndb.nal.usda.gov/ndb/foods/show/42291?man=\u0026lfacet=\u0026count=\u0026max=25\u0026qlookup=peanut+butter\u0026offset=\u0026sort=default\u0026format=Abridged\u0026reportfmt=other\u0026rptfrm=\u0026ndbno=\u0026nutrient1=\u0026nutrient2=\u0026nutrient3=\u0026subset=\u0026totCount=\u0026measureby=\u0026Qv=.32\u0026Q336516=1\u0026Qv=0.2\u0026Q336516=1)\n - Slice of Brown Bread - 130kcal - 56g - [3g of protein](https://ndb.nal.usda.gov/ndb/foods/show/45092708?fgcd=\u0026manu=\u0026format=\u0026count=\u0026max=25\u0026offset=\u0026sort=default\u0026order=asc\u0026qlookup=brown+bread+slice\u0026ds=\u0026qt=\u0026qp=\u0026qa=\u0026qn=\u0026q=\u0026ing=)\n\n**Meal Protein:** 10.68  \n**Meal Kcals:** 319kcal\n\n### Lunch - Bean Burger\n\n- Black Beans - 280kcal - 150g - [35.99g of protein](https://ndb.nal.usda.gov/ndb/foods/show/45001782?man=\u0026lfacet=\u0026count=\u0026max=25\u0026qlookup=BLACK+BEANS%2C+UPC%3A+5051379025519\u0026offset=\u0026sort=default\u0026format=Full\u0026reportfmt=other\u0026rptfrm=\u0026ndbno=\u0026nutrient1=\u0026nutrient2=\u0026nutrient3=\u0026subset=\u0026totCount=\u0026measureby=\u0026Q344504=.75\u0026Qv=1\u0026Q344504=1\u0026Qv=1)\n- Burger Bun - 160kcal - 64g - [6g of protein](https://ndb.nal.usda.gov/ndb/foods/show/45267071?fgcd=\u0026manu=\u0026format=\u0026count=\u0026max=25\u0026offset=\u0026sort=default\u0026order=asc\u0026qlookup=burger+bun\u0026ds=\u0026qt=\u0026qp=\u0026qa=\u0026qn=\u0026q=\u0026ing=)\n\n**Meal Protein:** 41.99  \n**Meal Kcals:** 440kcals\n\n### Dinner\n\n- Wild rice - 202kcal - 200g - [7.98g of protein](https://ndb.nal.usda.gov/ndb/foods/show/20089?man=\u0026lfacet=\u0026count=\u0026max=25\u0026qlookup=rice+wild+cooked\u0026offset=\u0026sort=default\u0026format=Abridged\u0026reportfmt=other\u0026rptfrm=\u0026ndbno=\u0026nutrient1=\u0026nutrient2=\u0026nutrient3=\u0026subset=\u0026totCount=\u0026measureby=\u0026Qv=2\u0026Q334077=1\u0026Qv=1\u0026Q334077=1)\n- Tofu - 405kcal - 150g - [28.23g of protein](https://ndb.nal.usda.gov/ndb/foods/show/16129?man=\u0026lfacet=\u0026count=\u0026max=25\u0026qlookup=tofu+cooked\u0026offset=\u0026sort=default\u0026format=Abridged\u0026reportfmt=other\u0026rptfrm=\u0026ndbno=\u0026nutrient1=\u0026nutrient2=\u0026nutrient3=\u0026subset=\u0026totCount=\u0026measureby=\u0026Qv=1.5\u0026Q331095=1\u0026Q331096=1\u0026Qv=1\u0026Q331095=1\u0026Q331096=1)\n- Chickpeas - 102kcal - 100g - [6.01g of protein](https://ndb.nal.usda.gov/ndb/foods/show/45359340?fgcd=\u0026manu=\u0026format=\u0026count=\u0026max=25\u0026offset=\u0026sort=default\u0026order=asc\u0026qlookup=chickpeas\u0026ds=\u0026qt=\u0026qp=\u0026qa=\u0026qn=\u0026q=\u0026ing=)\n\n**Meal Protein:** 42.22g  \n**Meal Kcals:** 709kcal\n\n### Day Summary\n\n**Day Protein:** 94.89g  \n**Day Calories:** 1468kcals\n\nThis example meal plan is not intended to be a balanced, complete, or even tasty (no oil or onions were included!) diet, merely illustrate that we have _easily_ provided 1.67 times  the RDA for a 70kg human being, with ~1,200 calories to spare of their [2680kcal limit](https://fnic.nal.usda.gov/fnic/dri-calculator/) .\n\n## What about complete proteins?\n\n\u003e Protein is made from twenty-plus basic building blocks called amino acids. Because we don’t store amino acids, our bodies make them in two different ways: either from scratch, or by modifying others. Nine amino acids [...] known as the essential amino acids, must come from food.   \n\u003e - [Harvard School of Public Health](https://www.hsph.harvard.edu/nutritionsource/what-should-you-eat/protein/)\n\nA concern sometimes levied against plant protein is that it's not 'complete'. \n\n\u003e plant-based foods [..] often lack one or more essential amino acid. Those who abstain from eating animal-based foods can eat a variety of protein-containing plant foods each day in order to get all the amino acids needed to make new protein, and also choose to incorporate complete plant proteins like quinoa and chia seeds.   \n\u003e - [Harvard School of Public Health](https://www.hsph.harvard.edu/nutritionsource/what-should-you-eat/protein/)\n\nThis means that variety is key in a vegan diet (as in any diet), to ensure you get a complete source of proteins.\n\nThe same (non-vegan) Harvard source even goes on to recommend plant protein sources over animal ones.\n\n\u003e Get your protein from plants when possible. Eating legumes (beans and peas), nuts, seeds, whole grains, and other plant-based sources of protein is a win for your health and the health of the planet. If most of your protein comes from plants, make sure that you mix up your sources so no “essential” components of protein are missing. The good news is that the plant kingdom offers plenty of options to mix and match.   \n\u003e - [Harvard School of Public Health](https://www.hsph.harvard.edu/nutritionsource/what-should-you-eat/protein/)\n\n\n##  Resources\n- [USDA Nutrition Database](https://ndb.nal.usda.gov/ndb/search/list)\n- [Challenge 22](https://challenge22.com/)\n- [Harvard School of Public Health](https://www.hsph.harvard.edu/nutritionsource/what-should-you-eat/protein/)",
+          "relativePermalink": "/en/anti-vegan-arguments/protein/",
+          "weight": 5,
+          "permalink" : "https://talkveganto.me/en/anti-vegan-arguments/protein/",
+          "section": {
+            "friendlyName": "Anti-vegan-arguments",
+            "relativePermalink": "/en/anti-vegan-arguments/",
+            "weight": null
+          }
+
+      }
+],
+    "languages": [
+        
+        {
+          "languageShortCode": "en",
+          "languageName": "English"
+        }
+      
+        , 
+        {
+          "languageShortCode": "fr",
+          "languageName": "French"
+        }
+      
+    ],
+    "languageName": "English",
+    "languageShortCode": "en",
+    "date": "2019-05-30T19:23:14.11936084Z"
+}
