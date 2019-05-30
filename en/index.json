@@ -9,9 +9,9 @@
           "weight": 5,
           "permalink" : "https://talkveganto.me/en/anti-vegan-arguments/protein/",
           "section": {
-            "friendlyName": "Anti-vegan-arguments",
+            "friendlyName": "Anti Vegan Arguments",
             "relativePermalink": "/en/anti-vegan-arguments/",
-            "weight": null
+            "weight": 10000
           }
 
       }
@@ -270,5 +270,5 @@
     ],
     "languageName": "English",
     "languageShortCode": "en",
-    "date": "2019-05-30T19:23:14.123344006Z"
+    "date": "2019-05-30T19:26:18.651932424Z"
 }
