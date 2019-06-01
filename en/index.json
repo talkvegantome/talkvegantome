@@ -60,7 +60,7 @@
       , 
       {
           "friendlyName": "Our Mission",
-          "rawContent": "\n# Our Mission\n\n1. Make the day-to- day lives of vegans easier by making information easily accessible\n2. Make vegan advocacy in all its forms easier to learn about, understand, and do\n3. Ensure we do not promote messaging which harm any other justice movements\n4. Embody the compassion that veganism typifies in all our material and interactions\n5. Ensure the accuracy of our information and provide _full disclosure_ of mitigating information even if it undermines the argument being presented\n6. Not to engage in the gatekeeping of veganism (no-one can take away your V card)\n7. Not to use the platform to further the personal agenda or profit of the individual contributors\n8. Use the platform to promote inclusion and intersectional messaging wherever possible\n",
+          "rawContent": "\n# Our Mission\n\n1. Make the day-to-day lives of vegans easier by making information easily accessible\n2. Make vegan advocacy in all its forms easier to learn about, understand, and do\n3. Ensure we do not promote messaging which harm any other justice movements\n4. Embody the compassion that veganism typifies in all our material and interactions\n5. Ensure the accuracy of our information and provide _full disclosure_ of mitigating information even if it undermines the argument being presented\n6. Not to engage in the gatekeeping of veganism (no-one can take away your V card)\n7. Not to use the platform to further the personal agenda or profit of the individual contributors\n8. Use the platform to promote inclusion and intersectional messaging wherever possible\n9. Remind ourselves and everyone else that veganism is about the animals, not the vegans.",
           "relativePermalink": "/en/our-mission/",
           "weight": 5,
           "permalink" : "https://talkveganto.me/en/our-mission/",
@@ -270,5 +270,5 @@
     ],
     "languageName": "English",
     "languageShortCode": "en",
-    "date": "2019-06-01T10:35:35.018727631Z"
+    "date": "2019-06-01T12:39:23.220174934Z"
 }
