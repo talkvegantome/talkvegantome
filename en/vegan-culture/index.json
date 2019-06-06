@@ -11,7 +11,7 @@
           "section": {
             "friendlyName": "Lifestyle \u0026 Culture",
             "relativePermalink": "/en/vegan-culture/",
-            "weight": 1000
+            "weight": 10000
           }
 
       }
@@ -25,7 +25,7 @@
           "section": {
             "friendlyName": "Lifestyle \u0026 Culture",
             "relativePermalink": "/en/vegan-culture/",
-            "weight": 1000
+            "weight": 10000
           }
 
       }
@@ -46,5 +46,5 @@
     ],
     "languageName": "English",
     "languageShortCode": "en",
-    "date": "2019-06-06T22:15:09.016926262Z"
+    "date": "2019-06-06T22:16:42.347823656Z"
 }
