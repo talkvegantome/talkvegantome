@@ -57,7 +57,7 @@ if (!doNotTrack) {
 
 <h2 id="almond-milk-vs-cow-milk-life-cycle-assessment-jacqueline-ho-ingrid-maradiaga-et-al-2016">Almond Milk vs. Cow Milk Life Cycle Assessment - Jacqueline Ho, Ingrid Maradiaga, et al. - 2016</h2>
 
-<p>This figure is the average of two calculations, the lower of which is:</p>
+<p>This figure is the average of two calculations, one partly based on an industry analysis and one wholly based on a statistical model. The former is as follows:</p>
 
 <blockquote>
 <p>Almond production + almond processing =<br />
@@ -69,16 +69,28 @@ if (!doNotTrack) {
 
 <h3 id="almond-processing-figure">Almond Processing Figure</h3>
 
-<p>Due to a lack of statistical data it is derived by inferring the average ratio of production water usage to processing water usage from data regarding soybeans <a href="https://web.archive.org/web/20181003201254/https://www.ioes.ucla.edu/wp-content/uploads/cow-vs-almond-milk-1.pdf">p11</a>.</p>
+<p>Due to a lack of statistical data regarding almond processing, the figure is derived using the ratio of water usage in soybean production to soybean processing. <a href="https://web.archive.org/web/20181003201254/https://www.ioes.ucla.edu/wp-content/uploads/cow-vs-almond-milk-1.pdf">p11</a>.</p>
 
-<p>This ratio of production water usage to processing water usage came out as 0.83x (i.e. producing the oilbeans took 0.83x as much water as processing them).</p>
+<p>The ratio of water usage in producing vs processing soybeans came out as 0.83x (i.e. producing the soybeans took 0.83x as much water as processing them).</p>
 
-<p>This is then multiplied by 0.885 kgal to get a total of 1.07kgal. But where does the 0.885 kgal come from?</p>
+<p>It seems very strange to use a ratio of water to grow vs water to process for this, as just because almonds take more water to grow, it does not follow that they take more to process.  It seems far more likely (without evidence to the contrary) that the amount of water to process soybeans is <em>broadly</em> similar. The amount of water used to process soybeans they cite is 136 gallons <a href="https://web.archive.org/web/20181003201254/https://www.ioes.ucla.edu/wp-content/uploads/cow-vs-almond-milk-1.pdf">p12</a>. It seems staggering to believe that almonds use more than 8x as much water for processing as soybeans without any additional details on the process.</p>
 
-<p>The 0.885 kgal figure was calculated using the <a href="http://www.eiolca.net/cgi-bin/dft/display.pl?hybrid=no&amp;first_level_sector=-1&amp;second_level_sector=111335&amp;newmatrix=US430CIDOC2002&amp;key=7216147368&amp;value=0244216612&amp;incdemand=0.0000017858&amp;selectvect=water&amp;select_button1=Run+Model">EIOCLA US 2002 Benchmark Producer Price Model - Tree Nut Farming</a> with an input of the average retail price of almond milk per litre (1.7858$/litre) <a href="https://web.archive.org/web/20181003201254/https://www.ioes.ucla.edu/wp-content/uploads/cow-vs-almond-milk-1.pdf">p12</a>.<br />
-The EIOCLA is a rather clever statistical model that uses data from <a href="http://www.eiolca.net/docs/full-document-2002-042310.pdf">a variety of public sources</a> to calculate the environmental impact of various industries per million dollars of the <em>producer</em> price.</p>
+<p>This ratio of 0.83x is then applied to 0.885 kgal for farming.</p>
 
-<p>The input for this is naturally crucial, and the tutorial for the calculator warns:</p>
+<blockquote>
+<p>0.82822086 = Tree nut farming / x<br />
+0.82822086 = 0.885 kgal / x
+x = 1.068555 kgal water used in processing almonds into almond milk<br />
+- <a href="https://web.archive.org/web/20181003201254/https://www.ioes.ucla.edu/wp-content/uploads/cow-vs-almond-milk-1.pdf">p13</a></p>
+</blockquote>
+
+<p>But where does the 0.885 kgal come from?</p>
+
+<p>The 0.885 kgal figure was calculated using the <a href="http://www.eiolca.net/cgi-bin/dft/display.pl?hybrid=no&amp;first_level_sector=-1&amp;second_level_sector=111335&amp;newmatrix=US430CIDOC2002&amp;key=7216147368&amp;value=0244216612&amp;incdemand=0.0000017858&amp;selectvect=water&amp;select_button1=Run+Model">EIOCLA US 2002 Benchmark Producer Price Model - Tree Nut Farming</a> with an input of the average retail price of almond milk per litre (1.7858$/litre) <a href="https://web.archive.org/web/20181003201254/https://www.ioes.ucla.edu/wp-content/uploads/cow-vs-almond-milk-1.pdf">p12</a>. The EIOCLA is a rather clever statistical model that uses data from <a href="http://www.eiolca.net/docs/full-document-2002-042310.pdf">a variety of public sources</a> to calculate the environmental impact of various industries per million dollars of the <em>producer</em> price.</p>
+
+<p>To be clear, they are using data on the amount of water it takes to grow (produce) nuts to infer the amount of water it takes to turn the (already grown) nuts into milk</p>
+
+<p>The dollar value input for this is naturally crucial, and the tutorial for the calculator warns:</p>
 
 <blockquote>
 <p>The dollar value entered represents producer price - the cost to make the output; it is not the consumer price - the cost to purchase the output. For an average automobile, the producer price is around $20,000. A consumer would purchase this average vehicle for $25,000 to $30,000.<br />
@@ -92,23 +104,37 @@ The EIOCLA is a rather clever statistical model that uses data from <a href="htt
 -  <a href="https://web.archive.org/web/20181003201254/https://www.ioes.ucla.edu/wp-content/uploads/cow-vs-almond-milk-1.pdf">p12</a></p>
 </blockquote>
 
-<p>But this ignores retail markup, distribution costs, not to mention the fact that the dataset we&rsquo;re working against is for the <em>Tree Nut Farming</em> industry <a href="https://web.archive.org/web/20181003201254/https://www.ioes.ucla.edu/wp-content/uploads/cow-vs-almond-milk-1.pdf">p12</a>, not the almond <em>milk</em> industry which skews the result of litres used per dollar much higher due to the farming industry having a much lower producer price by virtue of being further back in the value chain.</p>
+<p>But this ignores retail markup, distribution costs, not to mention the fact that the dataset we&rsquo;re working against is for the <em>Tree Nut Farming</em> industry <a href="https://web.archive.org/web/20181003201254/https://www.ioes.ucla.edu/wp-content/uploads/cow-vs-almond-milk-1.pdf">p12</a>, not the almond <em>milk</em> industry which skews the result due to the farming industry having a much lower &lsquo;producer price&rsquo; (price the farmer/factory sells it at) by virtue of being further back in the value chain.</p>
 
 <p>We regard the numbers cited here for almond processing as <em>highly</em> suspect due to:</p>
 
 <ol>
 <li>The conflation of retail and producer pricing</li>
-<li>The inference of processing water usage from farming water usage</li>
 <li>The conflation of nut milk producer pricing and nut farming producer pricing</li>
-<li>The assumption that the average ratio of production water usage to processing water usage (two <strong>completely</strong> unrelated numbers) from data regarding soybeans applies to almonds.</li>
+<li>The inference of processing water usage from farming water usage</li>
+<li>The assumption that the ratio of production (farming) water usage to processing (converting to milk) water usage (two <strong>completely</strong> unrelated numbers) from data regarding soybeans applies to almonds.</li>
 </ol>
 
-<p>It is unfortunately not possible to calculate even an approximate figure for processing using the datasets from the study as we do not have a cost per litre of almond milk at producer price, nor a dataset from the plant milk industry.<br />
-For sheer curiosities sake, however, we can  run their assumption that the ratio (0.83x <a href="https://web.archive.org/web/20181003201254/https://www.ioes.ucla.edu/wp-content/uploads/cow-vs-almond-milk-1.pdf">p11</a>) of water consumption in production and processing soybeans applies to almonds and infer the processing water usage from their 0.2 kgal almond production figure <a href="https://web.archive.org/web/20181003201254/https://www.ioes.ucla.edu/wp-content/uploads/cow-vs-almond-milk-1.pdf">p13</a>.<br />
-That calculation would be:</p>
+<p>Using the datasets and methodologies that the study provides it is impossible to come to a reliable conclusion regarding the total water usage per litre of almond milk.</p>
+
+<h4 id="speculating-further">Speculating further</h4>
+
+<p>Out of curiousity however, we can use the data they have to make two still unsupportable, but arguably more accurate calculations for water usage per litre of almond milk.</p>
+
+<p><strong>Use soybeans&rsquo; processing water usage per litre as a comparison</strong></p>
 
 <blockquote>
-<p>Almond Farming Water Usage / Almond Processing Water Usage = 0.83<br />
+<p>Almond Farming + Soybean Processing = Approximate Total gallons per litre of milk<br />
+  0.20113 kgal <a href="https://web.archive.org/web/20181003201254/https://www.ioes.ucla.edu/wp-content/uploads/cow-vs-almond-milk-1.pdf">p13</a> + 0.136 kgals <a href="https://web.archive.org/web/20181003201254/https://www.ioes.ucla.edu/wp-content/uploads/cow-vs-almond-milk-1.pdf">p12</a> = Approximate Total<br />
+Approximate Total = 0.20113 kgals</p>
+</blockquote>
+
+<p>So our total would be 201 gallons of water per litre of almond milk rather than their cited  1,270 or 1,611. This makes the assumption that almond processing takes exactly as much water as soybean processing, but that seems a more defensible assumption than the <em>wild</em> speculation of the figures based on the model. (See the 4 bullet points above for why.)</p>
+
+<p><strong>Use the <a href="http://www.nsfturkey.com/newsroom_pdf/Almond_EEA_Study_Verification_Final_August_2011.pdf">Almond Eco­Efficiency Analysis</a> figure with the 0.83 ratio</strong></p>
+
+<blockquote>
+<p>Almond Farming Water Usage / Almond Processing Water Usage = 0.83 <a href="https://web.archive.org/web/20181003201254/https://www.ioes.ucla.edu/wp-content/uploads/cow-vs-almond-milk-1.pdf">p11</a>)<br />
  0.2 kgals / x = 0.83<br />
  x = 0.24 kgals<br />
 Almond Processing Water Usage = 240 gallons</p>
