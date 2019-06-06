@@ -11,7 +11,7 @@
           "section": {
             "friendlyName": "Anti Vegan Arguments",
             "relativePermalink": "/en/anti-vegan-arguments/",
-            "weight": 10000
+            "weight": 1000
           }
 
       }
@@ -25,7 +25,7 @@
           "section": {
             "friendlyName": "Anti Vegan Arguments",
             "relativePermalink": "/en/anti-vegan-arguments/",
-            "weight": 10000
+            "weight": 1000
           }
 
       }
@@ -39,7 +39,7 @@
           "section": {
             "friendlyName": "Anti Vegan Arguments",
             "relativePermalink": "/en/anti-vegan-arguments/",
-            "weight": 10000
+            "weight": 1000
           }
 
       }
@@ -60,5 +60,5 @@
     ],
     "languageName": "English",
     "languageShortCode": "en",
-    "date": "2019-06-06T20:46:30.510980687Z"
+    "date": "2019-06-06T22:15:09.017284808Z"
 }

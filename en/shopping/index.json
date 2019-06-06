@@ -11,7 +11,7 @@
           "section": {
             "friendlyName": "Shopping",
             "relativePermalink": "/en/shopping/",
-            "weight": 1000
+            "weight": 10000
           }
 
       }
@@ -25,7 +25,7 @@
           "section": {
             "friendlyName": "Shopping",
             "relativePermalink": "/en/shopping/",
-            "weight": 1000
+            "weight": 10000
           }
 
       }
@@ -39,7 +39,7 @@
           "section": {
             "friendlyName": "Shopping",
             "relativePermalink": "/en/shopping/",
-            "weight": 1000
+            "weight": 10000
           }
 
       }
@@ -53,7 +53,7 @@
           "section": {
             "friendlyName": "Shopping",
             "relativePermalink": "/en/shopping/",
-            "weight": 1000
+            "weight": 10000
           }
 
       }
@@ -67,7 +67,7 @@
           "section": {
             "friendlyName": "Shopping",
             "relativePermalink": "/en/shopping/",
-            "weight": 1000
+            "weight": 10000
           }
 
       }
@@ -88,5 +88,5 @@
     ],
     "languageName": "English",
     "languageShortCode": "en",
-    "date": "2019-06-06T20:46:30.508443844Z"
+    "date": "2019-06-06T22:15:09.02040105Z"
 }

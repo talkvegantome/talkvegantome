@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://talkveganto.me/en/vegan-culture/documentaries/</loc>
+    <lastmod>2019-06-06T22:50:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://talkveganto.me/en/vegan-culture/organisations/</loc>
+    <lastmod>2019-06-06T22:21:06+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://talkveganto.me/en/anti-vegan-arguments/tofu-causes-deforestation/</loc>
     <lastmod>2019-06-05T19:51:40+01:00</lastmod>
   </url>
@@ -78,13 +88,8 @@
   </url>
   
   <url>
-    <loc>https://talkveganto.me/en/shopping/</loc>
-    <lastmod>2019-05-05T16:15:19+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://talkveganto.me/en/vegan-statistics/</loc>
-    <lastmod>2019-05-05T16:15:19+01:00</lastmod>
+    <loc>https://talkveganto.me/en/vegan-culture/</loc>
+    <lastmod>2019-06-06T22:44:25+01:00</lastmod>
   </url>
   
   <url>
@@ -93,13 +98,18 @@
   </url>
   
   <url>
-    <loc>https://talkveganto.me/en/anti-vegan-arguments/almond-milk-water-usage/</loc>
-    <lastmod>2019-06-06T11:43:43+01:00</lastmod>
+    <loc>https://talkveganto.me/en/vegan-statistics/</loc>
+    <lastmod>2019-05-05T16:15:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://talkveganto.me/en/shopping/</loc>
+    <lastmod>2019-05-05T16:15:19+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://talkveganto.me/en/</loc>
-    <lastmod>2019-06-06T11:43:43+01:00</lastmod>
+    <lastmod>2019-06-06T22:50:18+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -114,74 +124,13 @@
   </url>
   
   <url>
-    <loc>https://talkveganto.me/en/eating-out/</loc>
-    <lastmod>2019-05-14T21:58:42+01:00</lastmod>
+    <loc>https://talkveganto.me/en/anti-vegan-arguments/almond-milk-water-usage/</loc>
+    <lastmod>2019-06-06T11:43:43+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://talkveganto.me/en/privacy-policy/</loc>
     <lastmod>2019-05-12T16:07:15+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://talkveganto.me/en/documentaries/</loc>
-    <lastmod>2019-05-11T19:23:19+01:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://talkveganto.me/fr/documentaries/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://talkveganto.me/en/documentaries/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://talkveganto.me/en/documentaries/earthlings/</loc>
-    <lastmod>2019-05-11T19:23:19+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://talkveganto.me/fr/documentaries/earthlings/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://talkveganto.me/en/documentaries/earthlings/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://talkveganto.me/en/documentaries/land-of-hope-and-glory/</loc>
-    <lastmod>2019-05-11T19:17:28+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://talkveganto.me/fr/documentaries/land-of-hope-and-glory/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://talkveganto.me/en/documentaries/land-of-hope-and-glory/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://talkveganto.me/en/documentaries/dominion/</loc>
-    <lastmod>2019-05-06T16:08:53+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://talkveganto.me/fr/documentaries/dominion/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://talkveganto.me/en/documentaries/dominion/"
-                />
   </url>
   
   <url>
@@ -197,11 +146,6 @@
                 hreflang="en"
                 href="https://talkveganto.me/en/splash/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://talkveganto.me/en/eating-out/dealing-with-groups/</loc>
-    <lastmod>2019-05-05T16:41:34+01:00</lastmod>
   </url>
   
   <url>

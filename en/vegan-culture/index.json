@@ -1,0 +1,50 @@
+{
+    "data" : 
+[
+      
+      {
+          "friendlyName": "Documentaries",
+          "rawContent": "\n# Documentaries\n\nWe describe documentaries based on:   \n**Activism Style:** Emotive/Statistical  \n**Typical Citation Quality:** Anecdotal/News/Academic/Original Sources  \n**Carnist Palatability:** Inoffensive/Uncomfortable/Hateful  \n\n## Earthlings\n[Watch on on Vimeo](https://vimeo.com/209647801)  \n**Release Date:** 2005  \n**Website:** [nationearth.com](http://www.nationearth.com/)  \n**Activism Style:** Emotive  \n**Typical Citation Quality:** ?  \n**Carnist Palatability:** Uncomfortable  \n\n## Dominion\n[Watch on on Youtube](https://youtu.be/LQRAfJyEsko)  \n**Release Date:** 2018  \n**Website:** [dominionmovement.com](https://www.dominionmovement.com/)  \n**Activism Style:** Emotive  \n**Typical Citation Quality:** ?  \n**Carnist Palatability:** Uncomfortable  \n\n## Cowspiracy\n[Watch on on Netflix](https://www.netflix.com/watch/80033772) [Paid Download](https://cowspiracy.vhx.tv/buy)  \n**Release Date:** 2014  \n**Website:** [cowspiracy.com](http://www.cowspiracy.com/)  \n**Activism Style:** Statistical  \n**Typical Citation Quality:** News  \n**Carnist Palatability:** Inoffensive  ",
+          "relativePermalink": "/en/vegan-culture/documentaries/",
+          "weight": 5,
+          "permalink" : "https://talkveganto.me/en/vegan-culture/documentaries/",
+          "section": {
+            "friendlyName": "Lifestyle \u0026 Culture",
+            "relativePermalink": "/en/vegan-culture/",
+            "weight": 1000
+          }
+
+      }
+      , 
+      {
+          "friendlyName": "Organisations",
+          "rawContent": "\n# Vegan Organisations\n\nWe describe organisations based on:   \n**Activism Style:** Informational/Active/Direct  \n**Inclusivity History:** Recent Controversy/Historic Controversy/No Known Controversies   \n**Typical Citation Quality:** Anecdotal/News/Academic/Original Sources  \n**Carnist Palatability:** Inoffensive/Direct/Shocking  \n\n\n# Global\n\n## PETA\n**Website:** [peta.org](https://www.peta.org/)  \n**Activism Style:** Active  \n**Inclusivity History:** Historic Controversy  \n**Typical Citation Quality:** News  \n**Carnist Palatability:** Direct/Shocking\n\n## Direct Action Everywhere\n**Website:** [directactioneverywhere.com](https://www.directactioneverywhere.com)  \n**Activism Style:** Direct  \n**Inclusivity History:** [Recent Controversy](https://www.bbc.co.uk/news/world-us-canada-48487984)  \n**Typical Citation Quality:** Unknown  \n**Carnist Palatability:** Shocking\n\n# UK\n\n## The Vegan Society\n**Website:** [vegansociety.com](https://www.vegansociety.com/)  \n**Activism Style:** Informational  \n**Inclusivity History:** No Known Controversies  \n**Typical Citation Quality:** Academic  \n**Carnist Palatability:** Inoffensive\n\n## Surge\n**Website:** [surgeactivism.org](https://surgeactivism.org/)  \n**Activism Style:** Active  \n**Inclusivity History:** No Known Controversies  \n**Typical Citation Quality:** News  \n**Carnist Palatability:** Direct\n\n## Hunt Saboteurs Association\n**Website:** [huntsab.org.uk](https://www.huntsabs.org.uk/)  \n**Activism Style:** Direct  \n**Inclusivity History:** No Known Controversies  \n**Typical Citation Quality:** Unknown  \n**Carnist Palatability:** Shocking\n\n\n",
+          "relativePermalink": "/en/vegan-culture/organisations/",
+          "weight": 5,
+          "permalink" : "https://talkveganto.me/en/vegan-culture/organisations/",
+          "section": {
+            "friendlyName": "Lifestyle \u0026 Culture",
+            "relativePermalink": "/en/vegan-culture/",
+            "weight": 1000
+          }
+
+      }
+],
+    "languages": [
+        
+        {
+          "languageShortCode": "en",
+          "languageName": "English"
+        }
+      
+        , 
+        {
+          "languageShortCode": "fr",
+          "languageName": "French"
+        }
+      
+    ],
+    "languageName": "English",
+    "languageShortCode": "en",
+    "date": "2019-06-06T22:15:09.016926262Z"
+}
