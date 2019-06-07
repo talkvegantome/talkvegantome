@@ -1,0 +1,24 @@
+{
+    "data" :  {
+    "name": "Water Usage",
+    "permalink" : "https://talkveganto.me/en/vegan-facts/water-usage/"
+}
+ ,
+    "languages": [
+        
+        {
+          "languageShortCode": "en",
+          "languageName": "English"
+        }
+      
+        , 
+        {
+          "languageShortCode": "fr",
+          "languageName": "French"
+        }
+      
+    ],
+    "languageName": "English",
+    "languageShortCode": "en",
+    "date": "2019-06-07T22:56:43.979924856Z"
+}

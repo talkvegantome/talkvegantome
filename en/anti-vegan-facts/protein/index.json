@@ -1,0 +1,24 @@
+{
+    "data" :  {
+    "name": "Protein",
+    "permalink" : "https://talkveganto.me/en/anti-vegan-facts/protein/"
+}
+ ,
+    "languages": [
+        
+        {
+          "languageShortCode": "en",
+          "languageName": "English"
+        }
+      
+        , 
+        {
+          "languageShortCode": "fr",
+          "languageName": "French"
+        }
+      
+    ],
+    "languageName": "English",
+    "languageShortCode": "en",
+    "date": "2019-06-07T22:56:43.977692802Z"
+}
