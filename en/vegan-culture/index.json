@@ -4,7 +4,7 @@
       
       {
           "friendlyName": "Documentaries",
-          "rawContent": "\n# Documentaries\n\nWe describe documentaries based on:   \n**Activism Style:** Emotive/Statistical  \n**Typical Citation Quality:** Anecdotal/News/Academic/Original Sources  \n**Carnist Palatability:** Inoffensive/Uncomfortable/Hateful  \n\n## Earthlings\n[Watch on on Vimeo](https://vimeo.com/209647801)  \n**Release Date:** 2005  \n**Website:** [nationearth.com](http://www.nationearth.com/)  \n**Activism Style:** Emotive  \n**Typical Citation Quality:** ?  \n**Carnist Palatability:** Uncomfortable  \n\n## Dominion\n[Watch on on Youtube](https://youtu.be/LQRAfJyEsko)  \n**Release Date:** 2018  \n**Website:** [dominionmovement.com](https://www.dominionmovement.com/)  \n**Activism Style:** Emotive  \n**Typical Citation Quality:** ?  \n**Carnist Palatability:** Uncomfortable  \n\n## Cowspiracy\n[Watch on on Netflix](https://www.netflix.com/watch/80033772) [Paid Download](https://cowspiracy.vhx.tv/buy)  \n**Release Date:** 2014  \n**Website:** [cowspiracy.com](http://www.cowspiracy.com/)  \n**Activism Style:** Statistical  \n**Typical Citation Quality:** News  \n**Carnist Palatability:** Inoffensive  ",
+          "rawContent": "\n# Documentaries\n\nWe describe documentaries based on:   \n**Activism Style:** Emotive/Statistical  \n**Typical Citation Quality:** Anecdotal/News/Academic/Original Sources  \n**Carnist Palatability:** Inoffensive/Uncomfortable/Hateful  \n\n## Cowspiracy\n[Watch on Netflix](https://www.netflix.com/watch/80033772) [Paid Download](https://cowspiracy.vhx.tv/buy)  \n**Release Date:** 2014  \n**Website:** [cowspiracy.com](http://www.cowspiracy.com/)  \n**Activism Style:** Statistical  \n**Typical Citation Quality:** News (we have corrected at least [one fact]({{\u003cref \"/facts/land-usage\"\u003e}}))  \n**Carnist Palatability:** Inoffensive  \n\n## Dominion\n[Watch on Youtube](https://youtu.be/LQRAfJyEsko)  \n**Release Date:** 2018  \n**Website:** [dominionmovement.com](https://www.dominionmovement.com/)  \n**Activism Style:** Emotive  \n**Typical Citation Quality:** ?  \n**Carnist Palatability:** Uncomfortable  \n\n## Earthlings\n[Watch on Vimeo](https://vimeo.com/209647801)  \n**Release Date:** 2005  \n**Website:** [nationearth.com](http://www.nationearth.com/)  \n**Activism Style:** Emotive  \n**Typical Citation Quality:** ?  \n**Carnist Palatability:** Uncomfortable  \n\n## Land of Hope and Glory\n[Watch on Youtube](https://www.youtube.com/watch?v=dvtVkNofcq8)  \n**Release Date:** 2017  \n**Website:** [landofhopeandglory.org](https://www.landofhopeandglory.org/)  \n**Activism Style:** Emotive  \n**Typical Citation Quality:** Academic  \n**Carnist Palatability:** Uncomfortable ",
           "relativePermalink": "/en/vegan-culture/documentaries/",
           "weight": 5,
           "permalink" : "https://talkveganto.me/en/vegan-culture/documentaries/",
@@ -46,5 +46,5 @@
     ],
     "languageName": "English",
     "languageShortCode": "en",
-    "date": "2019-06-08T07:34:41.002075777Z"
+    "date": "2019-06-09T21:42:43.774547176Z"
 }
