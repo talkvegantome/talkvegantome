@@ -3,6 +3,20 @@
 [
       
       {
+          "friendlyName": "Personal Choice",
+          "rawContent": "\n# Argument\n\n\u003e What we eat is a personal choice, it's not right for you to go round telling people what to do.\n\nor\n\n\u003e It's my choice, why can't you respect that?\n\n# Rebuttal  \n\n## Quick Response\n\nPersonal choices cease to be purely personal when they harm others.  \n\n## Detail - Analytic\n\nThe core idea underpinning the concept \"It's my personal choice\" is that we have the right to choose for ourselves the correct course of action and that the choice, once made, should be respected. \n\nThe hidden premises of respecting some-one else's choice go something like:\n\n1. Everyone is allowed their own opinion even if you don't agree with it \n2. My opinion informs my actions through choice\n3. My actions, choices, and opinions should all be afforded the same level of acceptance\n\nThis takes a freedom of thought/speech type model and applies it to actions under the guise of 'choice'. And it works intuitively because there are scenarios in which this makes sense!\n\n- It's my choice to drop out of uni\n- It's my choice to dye my hair\n- It's my choice to spend all my money on a holiday instead of saving it for a house\n\nThe key thing that these scenarios have in common, and the necessary component for them to have the freedom of speech/thought model applied to them, is that their repercussions apply only to the person making the choice. Compare this with:\n\n- It's my choice to set your house on fire\n- It's my choice to spend all your money on a holiday\n- It's my choice to kick your shins\n\nWhen the opinion \"I think it would be a good thing to set your house on fire\", which we may not agree with or even respect, is transformed into an action that affects someone other than the person that who holds that opinion, it loses its protection.  \n\nYou may think what you like, and do what you like, so long as it only affects you.\n\nEating meat _incontrovertibly_ affects others. It is unavoidable that an animal dies in order to produce meat. You *cannot* use a defence grounded in freedom of thought to justify killing. If you demand respect for your choice to kill something else purely because your choice demands respect, you need to provide an argument as to why the same respect should not be given to some-one who wishes to kill you.",
+          "relativePermalink": "/en/anti-vegan/personal-choice/",
+          "weight": 5,
+          "permalink" : "https://talkveganto.me/en/anti-vegan/personal-choice/",
+          "section": {
+            "friendlyName": "Anti Vegan",
+            "relativePermalink": "/en/anti-vegan/",
+            "weight": 1000
+          }
+
+      }
+      , 
+      {
           "friendlyName": "Documentaries",
           "rawContent": "\n# Documentaries\n\nWe describe documentaries based on:   \n**Activism Style:** Emotive/Statistical  \n**Typical Citation Quality:** Anecdotal/News/Academic/Original Sources  \n**Carnist Palatability:** Inoffensive/Uncomfortable/Hateful  \n\n## Cowspiracy\n[Watch on Netflix](https://www.netflix.com/watch/80033772) [Paid Download](https://cowspiracy.vhx.tv/buy)  \n**Release Date:** 2014  \n**Website:** [cowspiracy.com](http://www.cowspiracy.com/)  \n**Activism Style:** Statistical  \n**Typical Citation Quality:** News (we have corrected at least [one fact]({{\u003cref \"/facts/land-usage\"\u003e}}))  \n**Carnist Palatability:** Inoffensive  \n\n## Dominion\n[Watch on Youtube](https://youtu.be/LQRAfJyEsko)  \n**Release Date:** 2018  \n**Website:** [dominionmovement.com](https://www.dominionmovement.com/)  \n**Activism Style:** Emotive  \n**Typical Citation Quality:** ?  \n**Carnist Palatability:** Uncomfortable  \n\n## Earthlings\n[Watch on Vimeo](https://vimeo.com/209647801)  \n**Release Date:** 2005  \n**Website:** [nationearth.com](http://www.nationearth.com/)  \n**Activism Style:** Emotive  \n**Typical Citation Quality:** ?  \n**Carnist Palatability:** Uncomfortable  \n\n## Land of Hope and Glory\n[Watch on Youtube](https://www.youtube.com/watch?v=dvtVkNofcq8)  \n**Release Date:** 2017  \n**Website:** [landofhopeandglory.org](https://www.landofhopeandglory.org/)  \n**Activism Style:** Emotive  \n**Typical Citation Quality:** Academic  \n**Carnist Palatability:** Uncomfortable ",
           "relativePermalink": "/en/vegan-culture/documentaries/",
@@ -312,5 +326,5 @@
     ],
     "languageName": "English",
     "languageShortCode": "en",
-    "date": "2019-06-25T21:54:50.056454535Z"
+    "date": "2019-06-26T19:13:44.842718629Z"
 }
