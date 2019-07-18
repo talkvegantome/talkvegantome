@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://talkveganto.me/en/about/media-pack/</loc>
+    <lastmod>2019-07-18T20:24:19+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://talkveganto.me/en/anti-vegan/no-animals-without-farming/</loc>
     <lastmod>2019-07-16T18:36:32+01:00</lastmod>
   </url>
@@ -158,8 +163,13 @@
   </url>
   
   <url>
+    <loc>https://talkveganto.me/en/about/</loc>
+    <lastmod>2019-07-18T20:50:19+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://talkveganto.me/en/</loc>
-    <lastmod>2019-07-16T18:36:32+01:00</lastmod>
+    <lastmod>2019-07-18T20:24:19+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
