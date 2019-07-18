@@ -8,6 +8,7 @@
           "relativePermalink": "/fr/documentaries/earthlings/",
           "weight": null,
           "permalink" : "https://talkveganto.me/fr/documentaries/earthlings/",
+          "displayInApp": null,
           "section": {
             "friendlyName": "Documentaires",
             "relativePermalink": "/fr/documentaries/",
@@ -22,6 +23,7 @@
           "relativePermalink": "/fr/documentaries/land-of-hope-and-glory/",
           "weight": null,
           "permalink" : "https://talkveganto.me/fr/documentaries/land-of-hope-and-glory/",
+          "displayInApp": null,
           "section": {
             "friendlyName": "Documentaires",
             "relativePermalink": "/fr/documentaries/",
@@ -36,6 +38,7 @@
           "relativePermalink": "/fr/splash/",
           "weight": null,
           "permalink" : "https://talkveganto.me/fr/splash/",
+          "displayInApp": null,
           "section": {
             "friendlyName": "French",
             "relativePermalink": "/fr/",
@@ -50,6 +53,7 @@
           "relativePermalink": "/fr/documentaries/dominion/",
           "weight": null,
           "permalink" : "https://talkveganto.me/fr/documentaries/dominion/",
+          "displayInApp": null,
           "section": {
             "friendlyName": "Documentaires",
             "relativePermalink": "/fr/documentaries/",
@@ -64,6 +68,7 @@
           "relativePermalink": "/fr/getting-started/apprendre-plus/",
           "weight": null,
           "permalink" : "https://talkveganto.me/fr/getting-started/apprendre-plus/",
+          "displayInApp": null,
           "section": {
             "friendlyName": "Commencer",
             "relativePermalink": "/fr/getting-started/",
@@ -88,5 +93,5 @@
     ],
     "languageName": "French",
     "languageShortCode": "fr",
-    "date": "2019-07-18T20:33:09.47871589Z"
+    "date": "2019-07-18T21:05:16.829903834Z"
 }

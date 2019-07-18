@@ -168,8 +168,13 @@
   </url>
   
   <url>
+    <loc>https://talkveganto.me/en/about/blog/</loc>
+    <lastmod>2019-07-18T21:21:51+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://talkveganto.me/en/</loc>
-    <lastmod>2019-07-18T20:24:19+01:00</lastmod>
+    <lastmod>2019-07-18T21:21:51+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"

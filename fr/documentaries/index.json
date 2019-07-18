@@ -8,6 +8,7 @@
           "relativePermalink": "/fr/documentaries/earthlings/",
           "weight": null,
           "permalink" : "https://talkveganto.me/fr/documentaries/earthlings/",
+          "displayInApp": null,
           "section": {
             "friendlyName": "Documentaires",
             "relativePermalink": "/fr/documentaries/",
@@ -22,6 +23,7 @@
           "relativePermalink": "/fr/documentaries/land-of-hope-and-glory/",
           "weight": null,
           "permalink" : "https://talkveganto.me/fr/documentaries/land-of-hope-and-glory/",
+          "displayInApp": null,
           "section": {
             "friendlyName": "Documentaires",
             "relativePermalink": "/fr/documentaries/",
@@ -36,6 +38,7 @@
           "relativePermalink": "/fr/documentaries/dominion/",
           "weight": null,
           "permalink" : "https://talkveganto.me/fr/documentaries/dominion/",
+          "displayInApp": null,
           "section": {
             "friendlyName": "Documentaires",
             "relativePermalink": "/fr/documentaries/",
@@ -60,5 +63,5 @@
     ],
     "languageName": "French",
     "languageShortCode": "fr",
-    "date": "2019-07-18T20:33:09.477734364Z"
+    "date": "2019-07-18T21:05:16.828962219Z"
 }

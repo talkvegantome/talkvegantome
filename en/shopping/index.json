@@ -8,6 +8,7 @@
           "relativePermalink": "/en/shopping/household-items/",
           "weight": 5,
           "permalink" : "https://talkveganto.me/en/shopping/household-items/",
+          "displayInApp": null,
           "section": {
             "friendlyName": "Shopping",
             "relativePermalink": "/en/shopping/",
@@ -22,6 +23,7 @@
           "relativePermalink": "/en/shopping/toiletries/",
           "weight": 5,
           "permalink" : "https://talkveganto.me/en/shopping/toiletries/",
+          "displayInApp": null,
           "section": {
             "friendlyName": "Shopping",
             "relativePermalink": "/en/shopping/",
@@ -36,6 +38,7 @@
           "relativePermalink": "/en/shopping/clothes/",
           "weight": 5,
           "permalink" : "https://talkveganto.me/en/shopping/clothes/",
+          "displayInApp": null,
           "section": {
             "friendlyName": "Shopping",
             "relativePermalink": "/en/shopping/",
@@ -50,6 +53,7 @@
           "relativePermalink": "/en/shopping/food/",
           "weight": 5,
           "permalink" : "https://talkveganto.me/en/shopping/food/",
+          "displayInApp": null,
           "section": {
             "friendlyName": "Shopping",
             "relativePermalink": "/en/shopping/",
@@ -64,6 +68,7 @@
           "relativePermalink": "/en/shopping/e-numbers/",
           "weight": 5,
           "permalink" : "https://talkveganto.me/en/shopping/e-numbers/",
+          "displayInApp": null,
           "section": {
             "friendlyName": "Shopping",
             "relativePermalink": "/en/shopping/",
@@ -88,5 +93,5 @@
     ],
     "languageName": "English",
     "languageShortCode": "en",
-    "date": "2019-07-18T20:33:09.462796911Z"
+    "date": "2019-07-18T21:05:16.813650929Z"
 }

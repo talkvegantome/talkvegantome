@@ -8,6 +8,7 @@
           "relativePermalink": "/en/anti-vegan/no-animals-without-farming/",
           "weight": 5,
           "permalink" : "https://talkveganto.me/en/anti-vegan/no-animals-without-farming/",
+          "displayInApp": null,
           "section": {
             "friendlyName": "Anti Vegan Arguments",
             "relativePermalink": "/en/anti-vegan/",
@@ -22,6 +23,7 @@
           "relativePermalink": "/en/anti-vegan/veganism-is-too-awkward/",
           "weight": 5,
           "permalink" : "https://talkveganto.me/en/anti-vegan/veganism-is-too-awkward/",
+          "displayInApp": null,
           "section": {
             "friendlyName": "Anti Vegan Arguments",
             "relativePermalink": "/en/anti-vegan/",
@@ -36,6 +38,7 @@
           "relativePermalink": "/en/anti-vegan/animals-are-slaughtered-humanely/",
           "weight": 5,
           "permalink" : "https://talkveganto.me/en/anti-vegan/animals-are-slaughtered-humanely/",
+          "displayInApp": null,
           "section": {
             "friendlyName": "Anti Vegan Arguments",
             "relativePermalink": "/en/anti-vegan/",
@@ -50,6 +53,7 @@
           "relativePermalink": "/en/anti-vegan/animals-arent-sapient/",
           "weight": 5,
           "permalink" : "https://talkveganto.me/en/anti-vegan/animals-arent-sapient/",
+          "displayInApp": null,
           "section": {
             "friendlyName": "Anti Vegan Arguments",
             "relativePermalink": "/en/anti-vegan/",
@@ -64,6 +68,7 @@
           "relativePermalink": "/en/anti-vegan/one-person-cant-make-a-difference/",
           "weight": 5,
           "permalink" : "https://talkveganto.me/en/anti-vegan/one-person-cant-make-a-difference/",
+          "displayInApp": null,
           "section": {
             "friendlyName": "Anti Vegan Arguments",
             "relativePermalink": "/en/anti-vegan/",
@@ -78,6 +83,7 @@
           "relativePermalink": "/en/anti-vegan/no-food-is-fully-vegan/",
           "weight": 5,
           "permalink" : "https://talkveganto.me/en/anti-vegan/no-food-is-fully-vegan/",
+          "displayInApp": null,
           "section": {
             "friendlyName": "Anti Vegan Arguments",
             "relativePermalink": "/en/anti-vegan/",
@@ -92,6 +98,7 @@
           "relativePermalink": "/en/anti-vegan/animals-eat-animals/",
           "weight": 5,
           "permalink" : "https://talkveganto.me/en/anti-vegan/animals-eat-animals/",
+          "displayInApp": null,
           "section": {
             "friendlyName": "Anti Vegan Arguments",
             "relativePermalink": "/en/anti-vegan/",
@@ -106,6 +113,7 @@
           "relativePermalink": "/en/anti-vegan/personal-choice/",
           "weight": 5,
           "permalink" : "https://talkveganto.me/en/anti-vegan/personal-choice/",
+          "displayInApp": null,
           "section": {
             "friendlyName": "Anti Vegan Arguments",
             "relativePermalink": "/en/anti-vegan/",
@@ -130,5 +138,5 @@
     ],
     "languageName": "English",
     "languageShortCode": "en",
-    "date": "2019-07-18T20:33:09.461455344Z"
+    "date": "2019-07-18T21:05:16.812156024Z"
 }

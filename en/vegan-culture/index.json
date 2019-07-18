@@ -8,6 +8,7 @@
           "relativePermalink": "/en/vegan-culture/documentaries/",
           "weight": 5,
           "permalink" : "https://talkveganto.me/en/vegan-culture/documentaries/",
+          "displayInApp": null,
           "section": {
             "friendlyName": "Lifestyle \u0026 Culture",
             "relativePermalink": "/en/vegan-culture/",
@@ -22,6 +23,7 @@
           "relativePermalink": "/en/vegan-culture/organisations/",
           "weight": 5,
           "permalink" : "https://talkveganto.me/en/vegan-culture/organisations/",
+          "displayInApp": null,
           "section": {
             "friendlyName": "Lifestyle \u0026 Culture",
             "relativePermalink": "/en/vegan-culture/",
@@ -46,5 +48,5 @@
     ],
     "languageName": "English",
     "languageShortCode": "en",
-    "date": "2019-07-18T20:33:09.462102582Z"
+    "date": "2019-07-18T21:05:16.812798766Z"
 }
