@@ -4,6 +4,7 @@
       
       {
           "friendlyName": "Household Items",
+          "description": "",
           "rawContent": "\n## Household items\n\nEverything from household cleansers to pillows may contain animal products, as always it's important to read the ingredients.  \n\n### Gotchas\n\n- Pillows usually contain feathers (obvious, but easily forgotten!)\n",
           "relativePermalink": "/en/shopping/household-items/",
           "weight": 5,
@@ -11,6 +12,7 @@
           "displayInApp": null,
           "section": {
             "friendlyName": "Shopping",
+            "description": "",
             "relativePermalink": "/en/shopping/",
             "weight": 10000
           }
@@ -19,6 +21,7 @@
       , 
       {
           "friendlyName": "Toiletries",
+          "description": "",
           "rawContent": "\n# Toiletries\n\nWith all items, but particularly makeup, some research is required to determine whether animal testing was involved in the research and development stages of the product.\n\n## Gotchas\n\n- Bar soap is usually made with animal fat\n- 'Cruelty free' does not mean it is free from animal products\n\n## Helpful Websites\n\n[Cruelty Free Kitty - Ultimate Guide to Cruelty Free Makeup](https://www.crueltyfreekitty.com/ultimate-guide-to-cruelty-free-makeup/)\n",
           "relativePermalink": "/en/shopping/toiletries/",
           "weight": 5,
@@ -26,6 +29,7 @@
           "displayInApp": null,
           "section": {
             "friendlyName": "Shopping",
+            "description": "",
             "relativePermalink": "/en/shopping/",
             "weight": 10000
           }
@@ -34,6 +38,7 @@
       , 
       {
           "friendlyName": "Clothes",
+          "description": "",
           "rawContent": "\n# Clothes\n\nOften less thought about than food, the following products on clothes will not be vegan.\n\n- Leather (including Suede)\n- Wool\n- Silk\n- Fur\n- Feathers\n\n\n\n## Gotchas\n\nIt's advisable to patronise vegan shoe establishments in particular as glues used in the manufacturing process for shoes made of otherwise vegan materials will make the shoes not vegan.\n",
           "relativePermalink": "/en/shopping/clothes/",
           "weight": 5,
@@ -41,6 +46,7 @@
           "displayInApp": null,
           "section": {
             "friendlyName": "Shopping",
+            "description": "",
             "relativePermalink": "/en/shopping/",
             "weight": 10000
           }
@@ -49,6 +55,7 @@
       , 
       {
           "friendlyName": "Food",
+          "description": "",
           "rawContent": "\n# Food and Drink\n\nWhen you first start checking labels on products in the supermarket it can seem overwhelming to check for everything, especially when it comes to E numbers and obscure ingredients. Do the best you can, but remember that mistakes do happen, just treat them as learning experiences.\n\n## Gotchas\n\nIt's amazing what can contain animal products, here are a few of the things that surprise new vegans and can catch them out.\n\n- Honey (It is an animal product)\n- [E-numbers]({{\u003c ref \"/shopping/e-numbers\"\u003e}}) (Animal products hide behind some e numbers)\n- Beer/Wine (Fish swim bladders are often used in the filtering process)\n- Bread (Regional. particularly in the UK often contains milk)\n- Smoothies (Often contain yogurt)\n- Chocolate (Dark chocolate is usually fine, but always check the packaging for milk)\n- Food fortified with Vitamin D are often fortified with Vitamin D3 which is [only vegan if derived from lichen](https://www.vegansociety.com/resources/nutrition-and-health/nutrients/vitamin-d). Vitamin D2 is [always vegan](https://www.vegansociety.com/resources/nutrition-and-health/nutrients/vitamin-d).\n-  L-cysteine (aka E920) is often [not vegan](https://www.vegansociety.com/whats-new/blog/how-avoid-buying-non-vegan-products)\n- Sugarcane Sugar in the US is often made [using bone char](https://web.archive.org/web/20190215180609/https://www.huffingtonpost.co.uk/entry/sugar-vegan-bone-char-yikes_us_6391496) but this is not the case in the UK with the exception of icing sugar which is often made using egg whites [BBC News](https://www.bbc.co.uk/bbcthree/article/578edf2d-9c22-453e-ab33-48f7a0568c0b).\n- Carmine [(aka E120)]({{\u003c ref \"shopping/e-numbers\"\u003e}}) is often used as a food colouring and is made from crushed insects.\n\n## E-numbers\n\nSee the [E-Numbers]({{ ref: \"/shopping/e-numbers\"}}) section for more!\n\n## Vegetarian Products\n\nIt's easy to be lulled into a false sense of security by products made from vegetarian manufacturers like Quorn. But keep a watchful eye on the ingredients of these products as they commonly contain non-vegan ingredients even when you least expect! \n\n## Resources\n\n- Beer [Barnivore](http://www.barnivore.com/) is a great source of information\n- [Vegan Society - Food and Drink](https://www.vegansociety.com/lifestyle/food-and-drink)\n- [Vegan Society - Vitamin D](https://www.vegansociety.com/resources/nutrition-and-health/nutrients/vitamin-d)\n- [Huffington Post - Your Sugar Might Be Made With Animal Bones. Sorry, Vegans.](https://web.archive.org/web/20190215180609/https://www.huffingtonpost.co.uk/entry/sugar-vegan-bone-char-yikes_us_6391496)\n- [BBC News - Brace yourselves - these nine things aren't actually vegan](https://www.bbc.co.uk/bbcthree/article/578edf2d-9c22-453e-ab33-48f7a0568c0b)",
           "relativePermalink": "/en/shopping/food/",
           "weight": 5,
@@ -56,6 +63,7 @@
           "displayInApp": null,
           "section": {
             "friendlyName": "Shopping",
+            "description": "",
             "relativePermalink": "/en/shopping/",
             "weight": 10000
           }
@@ -64,6 +72,7 @@
       , 
       {
           "friendlyName": "E Numbers",
+          "description": "",
           "rawContent": "\n# E Numbers\n\nAnimal products sometimes hide behind the following enumbers.\n\n- E120 - Never vegan\n- E322 - Usually vegan\n- E422 - Usually vegan\n- E542 - Never vegan\n- E631 - Usually not vegan\n- E901 - Never vegan\n- E904 - Never vegan\n- E471 - Usually vegan\n- E920 - Check for further information\n\n**Source:** [Vegan Society](https://www.vegansociety.com/whats-new/blog/how-avoid-buying-non-vegan-products)\n",
           "relativePermalink": "/en/shopping/e-numbers/",
           "weight": 5,
@@ -71,6 +80,7 @@
           "displayInApp": null,
           "section": {
             "friendlyName": "Shopping",
+            "description": "",
             "relativePermalink": "/en/shopping/",
             "weight": 10000
           }
@@ -93,5 +103,5 @@
     ],
     "languageName": "English",
     "languageShortCode": "en",
-    "date": "2019-08-12T22:17:59.750513362Z"
+    "date": "2019-08-14T11:05:28.95621854Z"
 }
