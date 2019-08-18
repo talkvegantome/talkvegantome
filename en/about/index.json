@@ -26,7 +26,7 @@
           "relativePermalink": "/en/about/blog/",
           "weight": null,
           "permalink" : "https://talkveganto.me/en/about/blog/",
-          "displayInApp": null,
+          "displayInApp": false,
           "section": {
             "friendlyName": "About",
             "description": "",
@@ -52,5 +52,5 @@
     ],
     "languageName": "English",
     "languageShortCode": "en",
-    "date": "2019-08-17T22:19:18.927433731Z"
+    "date": "2019-08-18T11:44:00.510010352Z"
 }
