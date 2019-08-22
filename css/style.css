@@ -52,7 +52,6 @@ header a, header a:hover, header a:active, header a:visited {
 	margin: 1em;
 }
 
-
 p {
 	line-height:1.6em;
 }
@@ -93,4 +92,10 @@ h1, h2, h3, h4, h5 {
 
  .header-alert h3{
 	margin:0.4em 0 0.4em 0 !important;
+ }
+
+ .header-alert h3 a, .header-alert h3 a:hover, .header-alert h3 a:active, .header-alert h3 a:visited {
+	 color: white;
+	 text-decoration: underline;
+
  }
