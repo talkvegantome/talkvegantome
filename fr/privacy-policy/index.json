@@ -1,0 +1,24 @@
+{
+    "data" :  {
+    "name": "Privacy Policy",
+    "permalink" : "https://talkveganto.me/fr/privacy-policy/"
+}
+ ,
+    "languages": [
+        
+        {
+          "languageShortCode": "en",
+          "languageName": "English"
+        }
+      
+        , 
+        {
+          "languageShortCode": "fr",
+          "languageName": "Français"
+        }
+      
+    ],
+    "languageName": "Français",
+    "languageShortCode": "fr",
+    "date": "2019-08-22T17:51:41.215191717Z"
+}

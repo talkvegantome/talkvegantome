@@ -4,15 +4,12 @@
       
       {
           "friendlyName": "Apprendre plus",
-          "description": "",
           "rawContent": "\n# Apprendre plus\n\n## Sites Internet\n\n- [The Vegan Society](https://vegansociety.com) - Fournit une mine d'informations sur les débuts, les grands-papes du véganisme\n\n\n## Livres\n\n## Films\n\n- [Terre of hope and glory]({{ \u003c\u003cref \"/documentaries/land-of-hope-and-glory\" \u003e }})\n- [Dominion]({{\u003cref \"/documentaries/dominion\"\u003e}})\n- [Terriens]({{\u003cref \"/documentaries/earthlings\"\u003e}})\n\n## Podcasts\n\n- [Les végétaliens barbus](https://www.thebeardedvegans.com/)\n\n## Chaînes YouTube\n",
           "relativePermalink": "/fr/getting-started/apprendre-plus/",
           "weight": null,
           "permalink" : "https://talkveganto.me/fr/getting-started/apprendre-plus/",
-          "displayInApp": null,
           "section": {
             "friendlyName": "Commencer",
-            "description": "",
             "relativePermalink": "/fr/getting-started/",
             "weight": 1000
           }
@@ -35,5 +32,5 @@
     ],
     "languageName": "French",
     "languageShortCode": "fr",
-    "date": "2019-08-22T11:04:59.359445124Z"
+    "date": "2019-05-16T22:32:25.757979+01:00"
 }

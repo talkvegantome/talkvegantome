@@ -1,0 +1,24 @@
+{
+    "data" :  {
+    "name": "Our Mission",
+    "permalink" : "https://talkveganto.me/fr/our-mission/"
+}
+ ,
+    "languages": [
+        
+        {
+          "languageShortCode": "en",
+          "languageName": "English"
+        }
+      
+        , 
+        {
+          "languageShortCode": "fr",
+          "languageName": "Français"
+        }
+      
+    ],
+    "languageName": "Français",
+    "languageShortCode": "fr",
+    "date": "2019-08-22T17:51:41.214435706Z"
+}

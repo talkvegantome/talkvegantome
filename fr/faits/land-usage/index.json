@@ -1,0 +1,24 @@
+{
+    "data" :  {
+    "name": "Régime végétalien",
+    "permalink" : "https://talkveganto.me/fr/faits/land-usage/"
+}
+ ,
+    "languages": [
+        
+        {
+          "languageShortCode": "en",
+          "languageName": "English"
+        }
+      
+        , 
+        {
+          "languageShortCode": "fr",
+          "languageName": "Français"
+        }
+      
+    ],
+    "languageName": "Français",
+    "languageShortCode": "fr",
+    "date": "2019-08-22T17:51:41.2143749Z"
+}

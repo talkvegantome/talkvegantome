@@ -1,6 +1,6 @@
 {
     "data" :  {
-    "name": "Maison",
+    "name": "Home",
     "permalink" : "https://talkveganto.me/fr/splash/"
 }
  ,
@@ -14,11 +14,11 @@
         , 
         {
           "languageShortCode": "fr",
-          "languageName": "French"
+          "languageName": "Français"
         }
       
     ],
-    "languageName": "French",
+    "languageName": "Français",
     "languageShortCode": "fr",
-    "date": "2019-08-22T11:04:59.360041853Z"
+    "date": "2019-08-22T17:51:41.215382288Z"
 }
