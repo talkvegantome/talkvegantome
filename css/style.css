@@ -75,9 +75,6 @@ h1, h2, h3, h4, h5 {
 		font-size: 1em;
 		font-weight:bold;
 	}
-	header img {
-		height:50%;
-	}
  }
 
  @media (min-width: 768px) { 
