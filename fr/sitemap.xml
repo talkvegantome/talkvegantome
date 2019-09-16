@@ -18,13 +18,24 @@
   </url>
   
   <url>
+    <loc>https://talkveganto.me/fr/faits/le-tofu-provoque-la-d%C3%A9forestation/</loc>
+    <lastmod>2019-06-05T19:51:40+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://talkveganto.me/fr/faits/r%C3%A9gime-v%C3%A9g%C3%A9talien/</loc>
     <lastmod>2019-05-16T21:24:39+01:00</lastmod>
   </url>
   
   <url>
+    <loc>https://talkveganto.me/fr/faits/</loc>
+    <lastmod>2019-06-05T19:51:40+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://talkveganto.me/fr/</loc>
-    <lastmod>2019-05-16T21:59:01+01:00</lastmod>
+    <lastmod>2019-06-05T19:51:40+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -36,12 +47,6 @@
                 hreflang="fr"
                 href="https://talkveganto.me/fr/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://talkveganto.me/fr/faits/</loc>
-    <lastmod>2019-05-16T21:24:39+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
