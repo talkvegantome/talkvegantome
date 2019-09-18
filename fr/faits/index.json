@@ -35,23 +35,6 @@
           }
 
       }
-      , 
-      {
-          "friendlyName": "Test Page",
-          "description": "Please Ignore",
-          "rawContent": "   \n\n# Test Page\n\nPlease ignore",
-          "relativePermalink": "/fr/faits/test-page/",
-          "weight": 100,
-          "permalink" : "https://talkveganto.me/fr/faits/test-page/",
-          "displayInApp": null,
-          "section": {
-            "friendlyName": "Faits",
-            "description": "",
-            "relativePermalink": "/fr/faits/",
-            "weight": null
-          }
-
-      }
 ],
     "languages": [
         
@@ -69,5 +52,5 @@
     ],
     "languageName": "Français",
     "languageShortCode": "fr",
-    "date": "2019-09-18T06:54:41.408535898Z"
+    "date": "2019-09-18T07:04:28.426210325Z"
 }
