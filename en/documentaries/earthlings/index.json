@@ -1,0 +1,24 @@
+{
+    "data" :  {
+    "name": "Earthlings",
+    "permalink" : "https://talkveganto.me/en/documentaries/earthlings/"
+}
+ ,
+    "languages": [
+        
+        {
+          "languageShortCode": "en",
+          "languageName": "English"
+        }
+      
+        , 
+        {
+          "languageShortCode": "fr",
+          "languageName": "French"
+        }
+      
+    ],
+    "languageName": "English",
+    "languageShortCode": "en",
+    "date": "2019-05-16T22:32:25.742258+01:00"
+}

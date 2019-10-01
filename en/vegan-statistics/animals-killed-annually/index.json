@@ -1,0 +1,24 @@
+{
+    "data" :  {
+    "name": "Animals Killed Annually",
+    "permalink" : "https://talkveganto.me/en/vegan-statistics/animals-killed-annually/"
+}
+ ,
+    "languages": [
+        
+        {
+          "languageShortCode": "en",
+          "languageName": "English"
+        }
+      
+        , 
+        {
+          "languageShortCode": "fr",
+          "languageName": "French"
+        }
+      
+    ],
+    "languageName": "English",
+    "languageShortCode": "en",
+    "date": "2019-05-16T22:32:25.739987+01:00"
+}

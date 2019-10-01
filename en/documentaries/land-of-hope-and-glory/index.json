@@ -1,0 +1,24 @@
+{
+    "data" :  {
+    "name": "Land of Hope and Glory",
+    "permalink" : "https://talkveganto.me/en/documentaries/land-of-hope-and-glory/"
+}
+ ,
+    "languages": [
+        
+        {
+          "languageShortCode": "en",
+          "languageName": "English"
+        }
+      
+        , 
+        {
+          "languageShortCode": "fr",
+          "languageName": "French"
+        }
+      
+    ],
+    "languageName": "English",
+    "languageShortCode": "en",
+    "date": "2019-05-16T22:32:25.742378+01:00"
+}
