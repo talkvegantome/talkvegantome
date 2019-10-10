@@ -35,6 +35,23 @@
           }
 
       }
+      , 
+      {
+          "friendlyName": "Contributors",
+          "description": "All the people contributing to TalkVeganToMe",
+          "rawContent": "---\ntitle: \"Contributors\"\ndescription: \"All the people contributing to TalkVeganToMe\"\ndate: 2019-07-18T21:21:51+01:00\ntype: contributors\ndisplayInApp: false\ndraft: false\n---\n",
+          "relativePermalink": "/en/about/contributors/",
+          "weight": null,
+          "permalink" : "https://talkveganto.me/en/about/contributors/",
+          "displayInApp": false,
+          "section": {
+            "friendlyName": "About",
+            "description": "",
+            "relativePermalink": "/en/about/",
+            "weight": 20000
+          }
+
+      }
 ],
     "languages": [
         
@@ -52,5 +69,5 @@
     ],
     "languageName": "English",
     "languageShortCode": "en",
-    "date": "2019-10-10T09:25:13.591876692Z"
+    "date": "2019-10-10T16:22:57.586861958Z"
 }

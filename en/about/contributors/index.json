@@ -1,7 +1,7 @@
 {
     "data" :  {
-    "name": "Toiletries",
-    "permalink" : "https://talkveganto.me/en/shopping/toiletries/"
+    "name": "Contributors",
+    "permalink" : "https://talkveganto.me/en/about/contributors/"
 }
  ,
     "languages": [
@@ -20,5 +20,5 @@
     ],
     "languageName": "English",
     "languageShortCode": "en",
-    "date": "2019-10-10T16:22:57.582432327Z"
+    "date": "2019-10-10T16:22:57.587229664Z"
 }
