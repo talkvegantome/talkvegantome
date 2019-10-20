@@ -15,7 +15,8 @@
             "description": "",
             "relativePermalink": "/en/anti-vegan/",
             "weight": 1000
-          }
+          },
+          "contributors": [{"name":"tery-hardwicke","role":"author"},{"name":"sam-martin","role":"editor"},{"name":"valerie-redfern","role":"proofreader"}]
 
       }
       , 
@@ -32,7 +33,8 @@
             "description": "",
             "relativePermalink": "/en/anti-vegan/",
             "weight": 1000
-          }
+          },
+          "contributors": [{"name":"tery-hardwicke","role":"author"},{"name":"valerie-redfern","role":"proofreader"}]
 
       }
       , 
@@ -49,7 +51,8 @@
             "description": "",
             "relativePermalink": "/en/about/",
             "weight": 20000
-          }
+          },
+          "contributors": null
 
       }
       , 
@@ -66,7 +69,8 @@
             "description": "",
             "relativePermalink": "/en/anti-vegan/",
             "weight": 1000
-          }
+          },
+          "contributors": [{"name":"sam-martin","role":"author"}]
 
       }
       , 
@@ -83,7 +87,8 @@
             "description": "",
             "relativePermalink": "/en/anti-vegan/",
             "weight": 1000
-          }
+          },
+          "contributors": [{"name":"sam-martin","role":"author"}]
 
       }
       , 
@@ -100,7 +105,8 @@
             "description": "",
             "relativePermalink": "/en/anti-vegan/",
             "weight": 1000
-          }
+          },
+          "contributors": [{"name":"sam-martin","role":"author"}]
 
       }
       , 
@@ -117,7 +123,8 @@
             "description": "",
             "relativePermalink": "/en/anti-vegan/",
             "weight": 1000
-          }
+          },
+          "contributors": [{"name":"sam-martin","role":"author"}]
 
       }
       , 
@@ -134,7 +141,8 @@
             "description": "",
             "relativePermalink": "/en/anti-vegan/",
             "weight": 1000
-          }
+          },
+          "contributors": [{"name":"sam-martin","role":"author"}]
 
       }
       , 
@@ -151,7 +159,8 @@
             "description": "",
             "relativePermalink": "/en/anti-vegan/",
             "weight": 1000
-          }
+          },
+          "contributors": [{"name":"tery-hardwicke","role":"author"},{"name":"sam-martin","role":"editor"}]
 
       }
       , 
@@ -168,7 +177,8 @@
             "description": "",
             "relativePermalink": "/en/anti-vegan/",
             "weight": 1000
-          }
+          },
+          "contributors": [{"name":"sam-martin","role":"author"}]
 
       }
       , 
@@ -185,7 +195,8 @@
             "description": "",
             "relativePermalink": "/en/anti-vegan/",
             "weight": 1000
-          }
+          },
+          "contributors": [{"name":"tery-hardwicke","role":"author"},{"name":"sam-martin","role":"editor"}]
 
       }
       , 
@@ -202,7 +213,8 @@
             "description": "",
             "relativePermalink": "/en/vegan-culture/",
             "weight": 10000
-          }
+          },
+          "contributors": [{"name":"sam-martin","role":"author"}]
 
       }
       , 
@@ -219,7 +231,8 @@
             "description": "",
             "relativePermalink": "/en/vegan-culture/",
             "weight": 10000
-          }
+          },
+          "contributors": [{"name":"sam-martin","role":"author"}]
 
       }
       , 
@@ -236,7 +249,8 @@
             "description": "",
             "relativePermalink": "/en/",
             "weight": null
-          }
+          },
+          "contributors": null
 
       }
       , 
@@ -253,7 +267,8 @@
             "description": "",
             "relativePermalink": "/en/shopping/",
             "weight": 10000
-          }
+          },
+          "contributors": [{"name":"sam-martin","role":"author"}]
 
       }
       , 
@@ -270,7 +285,8 @@
             "description": "",
             "relativePermalink": "/en/shopping/",
             "weight": 10000
-          }
+          },
+          "contributors": [{"name":"sam-martin","role":"author"}]
 
       }
       , 
@@ -287,7 +303,8 @@
             "description": "",
             "relativePermalink": "/en/shopping/",
             "weight": 10000
-          }
+          },
+          "contributors": [{"name":"sam-martin","role":"author"}]
 
       }
       , 
@@ -304,7 +321,8 @@
             "description": "",
             "relativePermalink": "/en/shopping/",
             "weight": 10000
-          }
+          },
+          "contributors": [{"name":"sam-martin","role":"author"}]
 
       }
       , 
@@ -321,7 +339,8 @@
             "description": "",
             "relativePermalink": "/en/shopping/",
             "weight": 10000
-          }
+          },
+          "contributors": [{"name":"sam-martin","role":"author"}]
 
       }
       , 
@@ -338,7 +357,8 @@
             "description": "",
             "relativePermalink": "/en/facts/",
             "weight": 1000
-          }
+          },
+          "contributors": [{"name":"sam-martin","role":"author"},{"name":"tery-hardwicke","role":"proofreader"},{"name":"valerie-redfern","role":"proofreader"}]
 
       }
       , 
@@ -355,7 +375,8 @@
             "description": "",
             "relativePermalink": "/en/facts/",
             "weight": 1000
-          }
+          },
+          "contributors": [{"name":"sam-martin","role":"author"},{"name":"tery-hardwicke","role":"proofreader"},{"name":"valerie-redfern","role":"proofreader"}]
 
       }
       , 
@@ -372,7 +393,8 @@
             "description": "",
             "relativePermalink": "/en/facts/",
             "weight": 1000
-          }
+          },
+          "contributors": [{"name":"sam-martin","role":"author"}]
 
       }
       , 
@@ -389,7 +411,8 @@
             "description": "",
             "relativePermalink": "/en/facts/",
             "weight": 1000
-          }
+          },
+          "contributors": [{"name":"sam-martin","role":"author"}]
 
       }
       , 
@@ -406,7 +429,8 @@
             "description": "",
             "relativePermalink": "/en/facts/",
             "weight": 1000
-          }
+          },
+          "contributors": [{"name":"sam-martin","role":"author"}]
 
       }
       , 
@@ -423,7 +447,8 @@
             "description": "",
             "relativePermalink": "/en/facts/",
             "weight": 1000
-          }
+          },
+          "contributors": [{"name":"sam-martin","role":"author"},{"name":"tery-hardwicke","role":"editor"},{"name":"valerie-redfern","role":"proofreader"}]
 
       }
       , 
@@ -440,7 +465,8 @@
             "description": "",
             "relativePermalink": "/en/facts/",
             "weight": 1000
-          }
+          },
+          "contributors": [{"name":"sam-martin","role":"author"}]
 
       }
       , 
@@ -457,7 +483,8 @@
             "description": "",
             "relativePermalink": "/en/facts/",
             "weight": 1000
-          }
+          },
+          "contributors": [{"name":"sam-martin","role":"author"}]
 
       }
       , 
@@ -474,7 +501,8 @@
             "description": "",
             "relativePermalink": "/en/facts/",
             "weight": 1000
-          }
+          },
+          "contributors": [{"name":"sam-martin","role":"author"}]
 
       }
       , 
@@ -491,7 +519,8 @@
             "description": "",
             "relativePermalink": "/en/facts/",
             "weight": 1000
-          }
+          },
+          "contributors": [{"name":"sam-martin","role":"author"}]
 
       }
       , 
@@ -508,7 +537,8 @@
             "description": "",
             "relativePermalink": "/en/facts/",
             "weight": 1000
-          }
+          },
+          "contributors": null
 
       }
       , 
@@ -525,7 +555,8 @@
             "description": "",
             "relativePermalink": "/en/facts/",
             "weight": 1000
-          }
+          },
+          "contributors": [{"name":"sam-martin","role":"author"}]
 
       }
       , 
@@ -542,7 +573,8 @@
             "description": "",
             "relativePermalink": "/en/facts/",
             "weight": 1000
-          }
+          },
+          "contributors": [{"name":"sam-martin","role":"author"}]
 
       }
       , 
@@ -559,7 +591,8 @@
             "description": "",
             "relativePermalink": "/en/about/",
             "weight": 20000
-          }
+          },
+          "contributors": null
 
       }
       , 
@@ -576,7 +609,8 @@
             "description": "",
             "relativePermalink": "/en/about/",
             "weight": 20000
-          }
+          },
+          "contributors": null
 
       }
       , 
@@ -593,7 +627,8 @@
             "description": "",
             "relativePermalink": "/en/",
             "weight": null
-          }
+          },
+          "contributors": null
 
       }
       , 
@@ -610,7 +645,8 @@
             "description": "",
             "relativePermalink": "/en/",
             "weight": null
-          }
+          },
+          "contributors": null
 
       }
 ],
@@ -631,5 +667,5 @@
     "contributors": {"deb-hardwicke":{"bio":"Deb Hardwicke is an egalitarian wordsmith, striving to identify an ideal vegan way to live. She is fascinated by communication and balance.","image":"/contributors/deb-hardwicke.jpg","name":"Deb Hardwicke","pronouns":"she/her"},"sam-martin":{"bio":"Sam Martin is the founder of TalkVeganToMe, with a background in tech, TalkVeganToMe was the perfect project to bring his three passions of veganism, tech, and philosophy together.","image":"/contributors/sam-martin.jpg","name":"Sam Martin","pronouns":"he/him","twitter":"https://twitter.com/samjackmartin","website":"https://sammart.in"},"tery-hardwicke":{"bio":"Tery Hardwicke an only slightly crazed neo‑ecofeminist demi-vegan holist. Passionate about ethical veganism, movies \u0026 board games.","image":"/contributors/tery-hardwicke.jpg","name":"Dr Tery Hardwicke","pronouns":"he/him","twitter":"https://twitter.com/Dr_Teotime"},"valerie-redfern":{"bio":"Valerie Redfern dedicates much of her free time towards different forms of animal rights activism and vegan advocacy. Although her enthusiasm for ethical veganism is paramount, she also has a keen interest in vegan health.","image":"/contributors/valerie-redfern.jpg","name":"Valerie Redfern","pronouns":"she/her","website":"https://www.facebook.com/CompassioninEducation/"}},
     "languageName": "English",
     "languageShortCode": "en",
-    "date": "2019-10-20T15:45:47.585516754Z"
+    "date": "2019-10-20T15:54:00.420612904Z"
 }
